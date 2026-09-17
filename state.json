@@ -13347,7 +13347,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "CSX",
@@ -20915,6 +20915,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "British Columbia Investment",
+        "key": "https://simplify.jobs/p/b61abd66-a7ce-474e-b65b-858c33660c84",
+        "location": "Victoria, BC, Canada; Vancouver, BC, Canada",
+        "restrictions": "",
+        "role": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -22671,6 +22687,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Marvell",
+        "key": "https://simplify.jobs/p/c59f85f4-61b5-40c1-886f-14943e17c10e",
+        "location": "Morrisville, NC; Austin, TX; Rochester, MN; Santa Clara, CA; Boise, ID; Burlington, VT; Westborough, MA",
+        "restrictions": "",
+        "role": "Physical Design Engineer Intern - BS",
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -29410,7 +29442,7 @@
     }
   ],
   "meta": {
-    "etag": "\"ddbf980f4a690e818a98d7730bdd0caff4f1be5dc92b6c130e69c64944c5c171\"",
+    "etag": "\"b51eb81ba4f8e37fa9b1d303aacec2cf0856472f80e736c3e1058be97053f6d1\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
