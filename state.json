@@ -19507,7 +19507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Zions Bank",
@@ -21507,7 +21507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Optiver",
@@ -30035,7 +30035,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"819390bd9b4b5d8211969811fb792c1ba8cd02ea1788e0294aec4fed888b9d97\"",
+    "etag": "\"9057cabb54d56a552f8f99ba5014d1f4c0ae6275d0a6310f6ebe6175caa08c33\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
