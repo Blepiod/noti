@@ -20926,7 +20926,7 @@
         "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596"
       },
       "next_attempt": 0.0,
-      "sent": 0
+      "sent": 1
     },
     {
       "attempts": 0,
@@ -22702,7 +22702,7 @@
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1"
       },
       "next_attempt": 0.0,
-      "sent": 0
+      "sent": 1
     },
     {
       "attempts": 0,
@@ -29442,6 +29442,7 @@
     }
   ],
   "meta": {
+    "delivery_resume": "0",
     "etag": "\"b51eb81ba4f8e37fa9b1d303aacec2cf0856472f80e736c3e1058be97053f6d1\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
