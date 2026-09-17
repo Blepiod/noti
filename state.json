@@ -6419,7 +6419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "W.W. Grainger",
@@ -17331,7 +17331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -22435,7 +22435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -24387,7 +24387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -26707,7 +26707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -29443,7 +29443,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b51eb81ba4f8e37fa9b1d303aacec2cf0856472f80e736c3e1058be97053f6d1\"",
+    "etag": "\"5a0295ed39e3f1551be3181077814e1259b30d4912040217058e4c6d953e15cb\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
