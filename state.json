@@ -5587,6 +5587,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/2f8f7f03-7f64-409a-9edc-6c4c62398221",
+        "location": "Foster City, CA",
+        "restrictions": "",
+        "role": "Associate Product Manager Intern - APM",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "15d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -14387,7 +14403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Google",
@@ -17411,7 +17427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Google",
@@ -29443,7 +29459,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"5a0295ed39e3f1551be3181077814e1259b30d4912040217058e4c6d953e15cb\"",
+    "etag": "\"1d684e7d472cf2a8af00ec1f961368c18562f96e8a3b3a1586c3c176dbde7c55\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
