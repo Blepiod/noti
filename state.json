@@ -1395,7 +1395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -1475,7 +1475,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BJC HealthCare",
@@ -1987,7 +1987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -2099,7 +2099,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -2419,6 +2419,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/1560332f-3e4c-4d15-819d-df9bf4889deb",
+        "location": "West Palm Beach, FL",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+        "url": "https://higher.gs.com/roles/181628?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -2435,7 +2451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -2659,6 +2675,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/16eda482-7528-44a9-a9ea-c4c30b42b339",
+        "location": "Bellevue, WA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -2739,7 +2771,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Wabash Valley Power Alliance",
@@ -2895,6 +2927,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/1949c912-65b2-42ac-9836-c110baed0ef6",
+        "location": "Seattle, WA",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Engineering",
+        "url": "https://higher.gs.com/roles/177808?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -3267,7 +3315,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -3411,7 +3459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "ID.me",
@@ -3571,7 +3619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -4003,7 +4051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -4339,7 +4387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -4563,7 +4611,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "V2X",
@@ -4835,7 +4883,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -4851,7 +4899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -5187,7 +5235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -5539,7 +5587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -5555,7 +5603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -5971,7 +6019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -6627,6 +6675,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/386a0851-1bfc-40ed-94c2-db33224d056d",
+        "location": "Austin, TX",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Sophomore Internship Program",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -6979,7 +7043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -7075,7 +7139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -7107,7 +7171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -7267,7 +7331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Bedrock Robotics",
@@ -7315,7 +7379,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Planview",
@@ -7587,7 +7651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -7907,7 +7971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -8419,7 +8483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "CSX",
@@ -8563,7 +8627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -8755,7 +8819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Apple",
@@ -8867,7 +8931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -8995,7 +9059,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "ID.me",
@@ -9155,7 +9219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Talos",
@@ -9251,7 +9315,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Five Rings Capital",
@@ -10019,7 +10083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "incident.io",
@@ -10227,6 +10291,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Howmet Aerospace",
+        "key": "https://simplify.jobs/p/57ded721-ead9-440b-999c-b6f3861f72ed",
+        "location": "Pittsburgh, PA",
+        "restrictions": "",
+        "role": "Artificial Intelligence Intern - AI",
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -10351,6 +10431,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/59064871-3c04-41bf-8676-945ce2cc7648",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
+        "url": "https://higher.gs.com/roles/170860?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -10531,6 +10627,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Americas - Engineering",
+        "url": "https://higher.gs.com/roles/171564?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -10623,6 +10735,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/5bdec003-2a02-42a4-a602-467541840552",
+        "location": "Salt Lake City, UT",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Americas - Engineering",
+        "url": "https://higher.gs.com/roles/171565?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -10771,7 +10899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -10979,7 +11107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -11204,6 +11332,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/60f69f38-4cc3-4dbd-a041-e8208a00725c",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - The Core Quantitative Strats",
+        "url": "https://higher.gs.com/roles/175426?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Altamira Technologies",
@@ -11359,6 +11503,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/629fac72-4880-42e9-b648-cdfa036a00ac",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "Summer Associate Intern - Multiple Teams 🎓",
+        "url": "https://higher.gs.com/roles/171566?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -11763,7 +11923,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -11811,7 +11971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -12787,7 +12947,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -13187,7 +13347,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ernst & Young",
@@ -13603,6 +13763,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/765bb91e-34d7-4746-8e11-8598e700e845",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "url": "https://higher.gs.com/roles/171533?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -13747,7 +13923,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "FAST Enterprises",
@@ -13919,6 +14095,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/792220f4-3ba1-4cf8-843e-e23208ba8d24",
+        "location": "Dallas, TX",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Engineering",
+        "url": "https://higher.gs.com/roles/171553?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -14339,7 +14531,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -14691,6 +14883,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/814b873c-2c4e-4173-85d1-c90cf9ccc964",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Investment Banking",
+        "url": "https://higher.gs.com/roles/175428?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -14835,7 +15043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -14979,7 +15187,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Gecko Robotics",
@@ -15187,7 +15395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -15235,7 +15443,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -15283,6 +15491,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Multiple Teams",
+        "url": "https://higher.gs.com/roles/175424?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -15315,7 +15539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AbbVie",
@@ -15523,7 +15747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -16467,6 +16691,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/8f346a45-4490-4243-933e-264e3916e701",
+        "location": "Toronto, ON, Canada",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Americas - Engineering",
+        "url": "https://higher.gs.com/roles/171567?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -16707,7 +16947,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "URBN",
@@ -17843,7 +18083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -17951,6 +18191,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+        "location": "Dallas, TX",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Americas",
+        "url": "https://higher.gs.com/roles/171532?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -18307,7 +18563,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Enterprise Holdings",
@@ -18547,7 +18803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "AMD",
@@ -18739,7 +18995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -18803,7 +19059,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -19123,6 +19379,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/a815c1a3-823d-405a-99ea-e82fbbb247cd",
+        "location": "Dallas, TX",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "url": "https://higher.gs.com/roles/171534?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -19139,7 +19411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Huntington Ingalls Industries",
@@ -19411,7 +19683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -19523,7 +19795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -20003,7 +20275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -20019,7 +20291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -20079,6 +20351,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "28d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+        "location": "Dallas, TX",
+        "restrictions": "",
+        "role": "AWM Product Management Analyst Intern",
+        "url": "https://higher.gs.com/roles/171513?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -20195,6 +20483,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/af712d3b-f316-4ba1-8b73-6c9530137458",
+        "location": "Denver, CO",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -20291,7 +20595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -20527,6 +20831,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/b2b3a7df-bea1-4290-b988-4c3e567814b8",
+        "location": "Birmingham, UK",
+        "restrictions": "",
+        "role": "Summer Analyst Intern - Engineering",
+        "url": "https://higher.gs.com/roles/170637?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -20867,7 +21187,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -20883,7 +21203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -21011,6 +21331,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Summer Analyst Intern",
+        "url": "https://higher.gs.com/roles/171550?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "0d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -21075,7 +21411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -21523,7 +21859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -21603,7 +21939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -21791,6 +22127,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓",
+        "url": "https://higher.gs.com/roles/175423?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -21988,6 +22340,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "Summer Associate Intern 🎓",
+        "url": "https://higher.gs.com/roles/171552?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "The Nuclear Company",
@@ -22019,7 +22387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -22291,7 +22659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -22435,7 +22803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -22515,7 +22883,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -23619,7 +23987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gecko Robotics",
@@ -23763,6 +24131,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/cfa3eeec-b62b-4d82-b747-367a111bb184",
+        "location": "Foster City, CA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -23839,6 +24223,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Visa",
+        "key": "https://simplify.jobs/p/d02657b4-87d2-4593-8b0e-d4bfb5b50cce",
+        "location": "Denver, CO",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -24099,7 +24499,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "General Dynamics",
@@ -25539,7 +25939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -25571,7 +25971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -25587,7 +25987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -26019,6 +26419,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "American Express",
+        "key": "https://simplify.jobs/p/e42c5690-d416-4909-ba3c-fd4eca08295e",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Marketing Analyst Intern - Undergraduate ICS",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -26035,7 +26451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -26403,7 +26819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "United Launch Alliance",
@@ -26515,7 +26931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -26883,6 +27299,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/ea185fae-1828-4e79-9bfa-34dc512cce8c",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓",
+        "url": "https://higher.gs.com/roles/175427?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -26931,7 +27363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "HF Sinclair",
@@ -27491,7 +27923,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -27731,7 +28163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -27843,7 +28275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -27875,7 +28307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "AMD",
@@ -28100,6 +28532,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+        "url": "https://higher.gs.com/roles/175421?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -28111,6 +28559,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/f3fffaac-34e8-4f3e-aa74-fb1928331995",
+        "location": "Salt Lake City, UT",
+        "restrictions": "",
+        "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+        "url": "https://higher.gs.com/roles/171551?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -28163,7 +28627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Navy Federal",
@@ -28387,6 +28851,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Goldman Sachs",
+        "key": "https://simplify.jobs/p/f6b73d49-ad99-40ba-844a-4f885a901a91",
+        "location": "Dallas, TX",
+        "restrictions": "",
+        "role": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+        "url": "https://higher.gs.com/roles/171548?type=students"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -28531,7 +29011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Citizens Financial Group",
@@ -28659,7 +29139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "URBN",
@@ -28915,7 +29395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Springs Window Fashions",
@@ -28979,7 +29459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "HF Sinclair",
@@ -29459,7 +29939,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"1d684e7d472cf2a8af00ec1f961368c18562f96e8a3b3a1586c3c176dbde7c55\"",
+    "etag": "\"7942287407315d1fd594b50cf5c4506c4c8d877d7449af3a93aa6bcd803a498d\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
