@@ -4275,7 +4275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -19939,7 +19939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Southern Star Central Gas Pipeline",
@@ -31427,7 +31427,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"d07a26418aab219a6cbb5b335e873468e6b974d7c0a6b6c0cde1f55df18b9afd\"",
+    "etag": "\"735ad066eda9fbe1586c9ec81f0b765e1d497985cabb27487c51ec87530a493d\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
