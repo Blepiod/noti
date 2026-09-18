@@ -118,7 +118,7 @@ def run(config, store, branch, stop):
     # Persist discoveries BEFORE any job notification. If this push fails, stop.
     branch.save(store)
     try:
-        # Leave enough of the Actions timeout to persist delivery results.
+        # One digest request uses a bounded HTTP timeout, leaving time to save state.
         noti.deliver(config, store, stop, max_seconds=120)
     finally:
         branch.save(store)
@@ -142,6 +142,10 @@ def main():
         return 1
     config = {"source_url": noti.SOURCE, "ntfy_server": "https://ntfy.sh", "ntfy_topic": topic,
               "ntfy_token": os.environ.get("NTFY_TOKEN", ""), "poll_seconds": 300}
+    if os.environ.get("GITHUB_STEP_SUMMARY"):
+        config["digest_summary_path"] = os.environ["GITHUB_STEP_SUMMARY"]
+        config["digest_url"] = (f"{os.environ.get('GITHUB_SERVER_URL', 'https://github.com')}/"
+                                f"{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}")
     try:
         if os.environ.get("SEND_TEST_NOTIFICATION") == "true":
             noti.publish(config, {"title": "GitHub Actions is connected",

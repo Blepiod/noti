@@ -1,12 +1,22 @@
 # Internship notifications
 
 A Python app that checks [Simplify's Summer 2027 internship list](https://github.com/SimplifyJobs/Summer2027-Internships)
-every **five minutes** and pushes each newly discovered job to your phone through
+every **five minutes** and sends one notification for each batch of new jobs through
 [ntfy](https://ntfy.sh). Requires **Python 3.10+ on Linux or macOS**, with no packages to install.
 
-Notifications contain company, role, locations, category, listing age, and any
-listed sponsorship/citizenship/degree restrictions. Tap the notification or its
-**Apply** action to open the application. All five categories are included.
+For one new job, the notification contains job details and an **Apply** link.
+For multiple jobs, it shows the total and a compact preview. On GitHub Actions,
+tap **View jobs** to open the run summary with every company, role, location,
+category, eligibility restriction, listing age, and application link. Large batches
+still generate **one** push notification; the preview may show only some entries.
+All five categories are included.
+
+Canadian-only listings are excluded by default. In mixed-location listings,
+Canadian locations are removed and the remaining options are kept. The filter
+recognizes Canada, Canadian province names/codes, and common bare Canadian city
+names; `CA` is treated as California, not Canada. Unspecified `Remote` and locations
+outside Canada are retained. This is a location-text filter, not a guarantee of
+U.S. eligibility; upstream locations that omit geographic information may be ambiguous.
 
 For free cloud hosting, use [GitHub Actions](#run-on-github-actions-free). Your
 computer can be off once that workflow is configured. Local hosting is optional.
@@ -84,8 +94,9 @@ update `noti-state` directly. Keep your normal protections on `main`.
 
 Failures preserve queued jobs for a later scheduled run, provided GitHub accepts
 the state push. A crash or rejected final push after sending can cause duplicate
-notifications on retry. Delivery batches have a two-minute budget; remaining items
-stay queued. In cloud mode retries happen on subsequent workflow runs, rather than
+notifications on retry. Each delivery attempt sends the whole due batch in one notification,
+and marks its jobs delivered only after ntfy accepts that notification.
+In cloud mode retries happen on subsequent workflow runs, rather than
 the local service's 15-second queue loop. A failed check or a nonempty queue makes
 the run red so you can inspect it. A missing secret or unreadable/corrupt saved
 state stops the run; it is not treated as a new baseline.
@@ -131,6 +142,15 @@ needed. [GitHub scheduling documentation](https://docs.github.com/en/actions/ref
 The **first successful check saves existing jobs silently**. Subsequent checks
 notify only about new listings. Keep this process and its computer running with
 internet access. Ctrl+C stops it cleanly. To start automatically, use the service below.
+
+For local hosting, each batch's full details are written to `data/latest-digest.md`
+(next to your configured database); a multi-job notification links to the upstream
+listings. GitHub Actions instead links directly to that run's full batch summary.
+
+To upgrade an existing installation, update `noti.py` and `actions_runner.py` on
+your default branch, or restart the local watcher after updating. Existing SQLite
+and `noti-state` history are compatible; **do not reset them**. Already queued
+Canadian jobs are filtered too, even when the next GitHub fetch is unchanged.
 
 The free hosted ntfy service needs no account. Its topics are public: anyone who
 knows your topic can read or publish to it. The generated topic has 128 random bits,
@@ -210,12 +230,13 @@ nonzero if the fetch failed or notifications remain queued.
   Edits, age changes, sorting, and a known job disappearing/reappearing don't re-alert.
   A posting with a completely new identity is treated as new.
 - SQLite commits newly seen jobs and pending messages together. Existing jobs on
-  the first run and jobs explicitly marked closed are not notified. Closed entries
-  with no application link are skipped.
+  the first run, jobs explicitly marked closed, and Canadian-only jobs are not
+  notified. Excluded jobs remain in history so they are not repeatedly reconsidered
+  as new. Closed entries with no application link are skipped.
 - Notifications become sent only after ntfy acknowledges them. Failures retry with
   backoff, respect `Retry-After`, and survive restarts. The queue is checked at most
-  every 15 seconds independently of the five-minute GitHub check. Messages are
-  spaced out to reduce bursts; provider quotas can delay a large batch.
+  every 15 seconds independently of the five-minute GitHub check. All due eligible
+  jobs share one notification; a failed digest leaves its whole batch queued.
 - Delivery is **at least once**: a timeout after ntfy accepted a message, or a crash
   before recording its acknowledgment, can cause a duplicate on retry. An ntfy
   acknowledgment confirms server acceptance, not display on your phone.

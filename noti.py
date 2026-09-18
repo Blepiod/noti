@@ -6,7 +6,7 @@ Python 3.10+, standard library only. Run `python3 noti.py --help`.
 
 import argparse
 from contextlib import contextmanager
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, replace
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from http.client import HTTPException
@@ -27,6 +27,7 @@ from urllib.request import Request, urlopen
 
 
 SOURCE = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
+LISTINGS_URL = "https://github.com/SimplifyJobs/Summer2027-Internships"
 LOG = logging.getLogger("noti")
 HEADERS = ["Company", "Role", "Location", "Application", "Age"]
 FLAGS = {"🛂": "No visa sponsorship", "🇺🇸": "US citizenship required",
@@ -63,6 +64,32 @@ class Job:
     age: str
     restrictions: str
     closed: bool = False
+
+
+def canadian_location(location):
+    """Recognize explicit Canadian countries/provinces without mistaking CA for Canada."""
+    location = clean(location)
+    if re.search(r"\b(canada|canadian)\b|🇨🇦", location, re.I):
+        return True
+    provinces = r"AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT"
+    if re.search(rf"(?:^|,\s*|\(\s*)(?:{provinces})(?:\s*\)|$)", location, re.I):
+        return True
+    full_names = (r"Alberta|British Columbia|Manitoba|New Brunswick|Newfoundland(?: and Labrador)?|"
+                  r"Nova Scotia|Northwest Territories|Nunavut|Ontario|Prince Edward Island|"
+                  r"Qu[eé]bec|Saskatchewan|Yukon")
+    if re.search(rf"(?:^|,\s*|\bin\s+)(?:{full_names})$", location, re.I):
+        return True
+    # Bare city names sometimes appear without a country/province in upstream data.
+    return location.casefold() in {"toronto", "montreal", "montréal", "ottawa", "vancouver",
+                                  "calgary", "edmonton", "winnipeg", "saskatoon", "regina"}
+
+
+def eligible_job(job):
+    if job.closed:
+        return None
+    locations = [clean(part) for part in job.location.split(";") if clean(part)]
+    remaining = [part for part in locations if not canadian_location(part)]
+    return replace(job, location="; ".join(remaining)) if remaining else None
 
 
 class TableParser(HTMLParser):
@@ -194,15 +221,18 @@ class Store:
         added = 0
         with self.db:
             for job in jobs:
+                eligible = eligible_job(job)
+                skipped = eligible is None
+                job = eligible or job
                 payload = json.dumps(asdict(job), ensure_ascii=False)
                 inserted = self.db.execute(
                     "INSERT OR IGNORE INTO jobs (key, payload, sent) VALUES (?, ?, ?)",
-                    (job.key, payload, int(baseline or job.closed))).rowcount
+                    (job.key, payload, int(baseline or skipped))).rowcount
                 added += inserted
                 if not inserted:
                     # Refresh unsent details without re-alerting on edits/reordering.
                     self.db.execute("UPDATE jobs SET payload = ?, sent = MAX(sent, ?) WHERE key = ?",
-                                    (payload, int(job.closed), job.key))
+                                    (payload, int(skipped), job.key))
             self.put("initialized", "1")
             self.put("etag", etag)
             self.put("modified", modified)
@@ -264,6 +294,56 @@ def notification(job):
             "tags": ["briefcase"], "priority": 3}
 
 
+def digest_notification(jobs, digest_url=None):
+    if len(jobs) == 1:
+        return notification(jobs[0])
+    lines = []
+    for job in jobs:
+        line = clip(f"{job.company} — {job.role} | {job.location}", 240)
+        if len("\n".join(lines + [line]).encode("utf-8")) > 3000:
+            break
+        lines.append(line)
+    if len(lines) < len(jobs):
+        lines.append(f"…and {len(jobs) - len(lines)} more.")
+    lines.append("Tap View jobs for all details and application links." if digest_url else
+                 "Full details are in latest-digest.md; tap Browse listings to open GitHub.")
+    url = digest_url or LISTINGS_URL
+    return {"title": f"{len(jobs)} new internships", "message": "\n".join(lines),
+            "click": url, "actions": [{"action": "view", "label": "View jobs" if digest_url else
+                                       "Browse listings", "url": url}],
+            "tags": ["briefcase"], "priority": 3}
+
+
+def digest_report(jobs):
+    def escape(text):
+        return re.sub(r"([\\`*_{}\[\]<>#+.!|])", r"\\\1", clean(text))
+
+    lines = [f"## {len(jobs)} new internships", ""]
+    for job in jobs:
+        url = job.url.replace("(", "%28").replace(")", "%29")
+        lines.extend([f"### {escape(job.company)} — {escape(job.role)}", "",
+                      f"Location: {escape(job.location)}  ",
+                      f"Category: {escape(job.category)}  "])
+        if job.restrictions:
+            lines.append(f"Eligibility: {escape(job.restrictions)}  ")
+        if job.age:
+            lines.append(f"Listing age: {escape(job.age)}  ")
+        lines.extend([f"[Apply]({url})", ""])
+    return "\n".join(lines) + "\n"
+
+
+def save_digest_report(config, jobs):
+    report = digest_report(jobs)
+    if config.get("digest_summary_path"):
+        with open(config["digest_summary_path"], "a", encoding="utf-8") as file:
+            file.write(report)
+    if config.get("database"):
+        path = Path(config["database"]).parent / "latest-digest.md"
+        temporary = path.with_suffix(".tmp")
+        temporary.write_text(report, encoding="utf-8")
+        temporary.replace(path)
+
+
 def publish(config, payload):
     headers = {"Content-Type": "application/json", "User-Agent": "noti-internship-watcher/1.0"}
     if config.get("ntfy_token"):
@@ -309,35 +389,38 @@ NETWORK_ERRORS = (OSError, ValueError, HTTPException)
 
 def deliver(config, store, stop=None, max_seconds=None):
     now = time.time()
-    deadline = time.monotonic() + max_seconds if max_seconds is not None else None
+    # Apply the new filter to old queues too, including restored Actions state and 304s.
+    with store.db:
+        for row in store.pending(float("inf")):
+            job = eligible_job(Job(**json.loads(row["payload"])))
+            if job is None:
+                store.db.execute("UPDATE jobs SET sent = 1 WHERE key = ?", (row["key"],))
+            else:
+                store.db.execute("UPDATE jobs SET payload = ? WHERE key = ?",
+                                 (json.dumps(asdict(job), ensure_ascii=False), row["key"]))
     if float(store.get("delivery_resume", "0")) > now:
         return
-    for row in store.pending(now):
-        if stop and stop.is_set():
-            return
-        if deadline is not None and time.monotonic() >= deadline:
-            LOG.info("Delivery time budget reached; remaining notifications stay queued")
-            return
-        try:
-            publish(config, notification(Job(**json.loads(row["payload"]))))
-        except NETWORK_ERRORS as error:
-            resume = time.time() + retry_delay(error, row["attempts"], time.time())
-            with store.db:
-                store.db.execute("UPDATE jobs SET attempts = attempts + 1, next_attempt = ? WHERE key = ?",
-                                 (resume, row["key"]))
-                # Back off the whole sender, including on provider quota errors.
-                store.put("delivery_resume", resume)
-                store.put("notification_error", error_message(error))
-            LOG.error("Notification failed (%s); queued for retry", error_message(error))
-            return
+    rows = store.pending(now)
+    if not rows or (stop and stop.is_set()) or (max_seconds is not None and max_seconds <= 0):
+        return
+    jobs = [Job(**json.loads(row["payload"])) for row in rows]
+    try:
+        save_digest_report(config, jobs)
+        publish(config, digest_notification(jobs, config.get("digest_url")))
+    except NETWORK_ERRORS as error:
+        resume = time.time() + retry_delay(error, max(row["attempts"] for row in rows), time.time())
         with store.db:
-            store.db.execute("UPDATE jobs SET sent = 1 WHERE key = ?", (row["key"],))
-            store.put("delivery_resume", "0")
-            store.put("notification_error", "")
-        LOG.info("Notification accepted: %s", json.loads(row["payload"])["company"])
-        # Avoid exhausting the provider's burst allowance when many roles arrive.
-        if stop:
-            stop.wait(1)
+            store.db.executemany("UPDATE jobs SET attempts = attempts + 1, next_attempt = ? WHERE key = ?",
+                                 [(resume, row["key"]) for row in rows])
+            store.put("delivery_resume", resume)
+            store.put("notification_error", error_message(error))
+        LOG.error("Digest failed (%s); %d jobs queued for retry", error_message(error), len(rows))
+        return
+    with store.db:
+        store.db.executemany("UPDATE jobs SET sent = 1 WHERE key = ?", [(row["key"],) for row in rows])
+        store.put("delivery_resume", "0")
+        store.put("notification_error", "")
+    LOG.info("One notification accepted for %d new jobs", len(jobs))
 
 
 def check(config, store):
