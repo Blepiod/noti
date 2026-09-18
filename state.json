@@ -2883,6 +2883,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Tyler Technologies",
+        "key": "https://simplify.jobs/p/170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
+        "location": "Lawrenceville, GA",
+        "restrictions": "",
+        "role": "Software Development Intern",
+        "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?fr=false&nl=1&nl=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -2947,7 +2963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "CSX",
@@ -5615,6 +5631,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "GE Vernova",
+        "key": "https://simplify.jobs/p/2c773875-aa62-411f-a839-511d6f823d7d",
+        "location": "Niskayuna, NY",
+        "restrictions": "",
+        "role": "Engineering Intern",
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -15059,6 +15091,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Altar'd State",
+        "key": "https://simplify.jobs/p/7b0bc5f5-b7eb-4ee8-905a-aff3cc7c2c4f",
+        "location": "Knoxville, TN",
+        "restrictions": "",
+        "role": "IT Analytics Intern",
+        "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -21347,7 +21395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Goldman Sachs",
@@ -25699,6 +25747,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Corning",
+        "key": "https://simplify.jobs/p/d21d8f49-d63f-4ba3-9e67-9ef75902a5ba",
+        "location": "Keene, NH",
+        "restrictions": "",
+        "role": "Imaging Sciences Engineer Intern",
+        "url": "https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -26095,6 +26159,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "5d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "NVIDIA",
+        "key": "https://simplify.jobs/p/d58843db-952c-4753-94fe-da3da6efaa9d",
+        "location": "Santa Clara, CA; Durham, NC",
+        "restrictions": "Advanced degree required",
+        "role": "PhD Research Intern - Circuits 🎓",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -29635,6 +29715,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Cogna",
+        "key": "https://simplify.jobs/p/f13e1ec7-0610-4fb7-a7a9-b6fb2017b8e5",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "Software Engineer Intern 🎓",
+        "url": "https://apply.workable.com/cogna/j/45A6283F88/apply"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -29839,6 +29935,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "GE Vernova",
+        "key": "https://simplify.jobs/p/f34b1f76-8c04-44e3-af69-ab94a7694d4b",
+        "location": "Niskayuna, NY",
+        "restrictions": "",
+        "role": "Engineering Intern",
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -31315,7 +31427,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b56c49ae8973569ff2efe6bff7a48e6b33781c02227ec2404baac274fd02caa4\"",
+    "etag": "\"33890b7e44c121d1def465fff988861f056b1e091cc98368efffcbdbd51880c1\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
