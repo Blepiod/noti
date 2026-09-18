@@ -2899,7 +2899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -14403,7 +14403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -14659,7 +14659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -16643,7 +16643,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Persona AI",
@@ -28771,7 +28771,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Northwood Space",
@@ -31139,7 +31139,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"0b6f7b4b829505905516c581ca6b9f50a6a2a58197152b7e676594e83bc22cec\"",
+    "etag": "\"5509eddaf59a6760c51da5ef2576cf869833a8d1b69429a784fc0f0193d55740\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
