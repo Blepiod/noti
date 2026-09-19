@@ -22419,6 +22419,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Centene",
+        "key": "https://simplify.jobs/p/b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
+        "location": "Florida",
+        "restrictions": "",
+        "role": "Analytics Intern",
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -23955,7 +23971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -32259,7 +32275,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"0ea3ffd5ea4776a7a3037a672299ec9b9de379490fb73b60548c49209f713513\"",
+    "etag": "\"ba070c3a218efd7eab90d258c222fc19c1b616e0021df2729eaddfe8dd3bbaf8\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
