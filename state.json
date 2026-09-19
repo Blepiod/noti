@@ -99,6 +99,38 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "United Parcel Service",
+        "key": "https://simplify.jobs/p/0198141b-bbd1-4584-9152-523efb2cd1c8",
+        "location": "United States",
+        "restrictions": "",
+        "role": "Industrial Engineering Intern - Americas Region",
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "MetOx International",
+        "key": "https://simplify.jobs/p/01adde08-7298-47e1-8394-bb946ac7ec13",
+        "location": "Houston, TX",
+        "restrictions": "",
+        "role": "Data Science Intern - Spring 2027",
+        "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -355,6 +387,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Gordon Food Service",
+        "key": "https://simplify.jobs/p/046d231f-21e2-41ac-95bd-f0126e3505bd",
+        "location": "Wyoming, MI",
+        "restrictions": "",
+        "role": "Category Technology Intern",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Intern_R-57362"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "17d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -527,6 +575,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Gordon Food Service",
+        "key": "https://simplify.jobs/p/058f883b-7a38-49f1-8ad9-45811313157b",
+        "location": "Wyoming, MI",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -751,6 +815,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "WTW",
+        "key": "https://simplify.jobs/p/06ed0ec7-ab3d-4a74-a150-0877d24d3deb",
+        "location": "London, UK; Reigate, UK",
+        "restrictions": "",
+        "role": "Data Scientist Intern - P&C Insurance",
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -1139,6 +1219,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Gordon Food Service",
+        "key": "https://simplify.jobs/p/09f40dda-2ded-4174-ba81-78b97c133f7e",
+        "location": "Wyoming, MI",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Low Code",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -1427,7 +1523,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "AArete",
@@ -1679,6 +1775,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Together AI",
+        "key": "https://simplify.jobs/p/0e0fdf41-a922-4b76-8eaf-6445d1277b48",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Research Intern - Inference",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -2035,7 +2147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "General Motors",
@@ -2915,7 +3027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -3199,6 +3311,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971",
+        "location": "Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Software Engineer Intern - MS/PhD 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -4963,7 +5091,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Axon",
@@ -7507,6 +7635,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "key": "https://simplify.jobs/p/3b1559b0-8937-4979-9507-9155ae62314f",
+        "location": "Laurel, MD",
+        "restrictions": "",
+        "role": "Engineer/Scientist Intern - Health Systems and Human-Machine Systems",
+        "url": "https://careers.jhuapl.edu/jobs/60054?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -7903,6 +8047,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/3ee8cde6-c824-4a43-ab0b-64b136f0e388",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "MS/PhD Intern - Sim-Realism ML Infrastructure 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -8419,6 +8579,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "The Brattle Group",
+        "key": "https://simplify.jobs/p/43906c1b-7f09-425f-89c4-c110033758ce",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Energy Analyst Intern - Economics",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -8515,6 +8691,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Thrivent",
+        "key": "https://simplify.jobs/p/440a7b43-921e-4e0a-b2b8-0b66d1366483",
+        "location": "Minnesota",
+        "restrictions": "",
+        "role": "Associate Software Engineer Intern",
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -8531,7 +8723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "AArete",
@@ -8831,6 +9023,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Together AI",
+        "key": "https://simplify.jobs/p/464ccc3f-81f5-4e38-b8ac-aeac069c2533",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Research Intern - Model Shaping",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -10611,6 +10819,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "AMD",
+        "key": "https://simplify.jobs/p/54abb8d5-92e1-4497-97fb-7102f105b7e4",
+        "location": "San Jose, CA; Santa Clara, CA",
+        "restrictions": "Advanced degree required",
+        "role": "PhD HPC & Sovereign AI Intern/Co-op 🎓",
+        "url": "https://careers.amd.com/jobs/92636?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -11427,6 +11651,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Together AI",
+        "key": "https://simplify.jobs/p/5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -11667,6 +11907,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "CME Group",
+        "key": "https://simplify.jobs/p/5d469294-b2e6-427c-b2dd-8da3dad68eee",
+        "location": "Chicago, IL",
+        "restrictions": "",
+        "role": "Software Engineering Intern - Summer 2027",
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -11852,6 +12108,22 @@
         "restrictions": "",
         "role": "Medical Data Scientist Intern",
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Qualcomm",
+        "key": "https://simplify.jobs/p/5f07566c-0e24-415a-b3dd-27fd909e50c4",
+        "location": "Ottawa, ON, Canada",
+        "restrictions": "",
+        "role": "Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware",
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721156176"
       },
       "next_attempt": 0.0,
       "sent": 1
@@ -12211,6 +12483,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Thrivent",
+        "key": "https://simplify.jobs/p/61b9a212-f545-496c-b822-3bae971775e3",
+        "location": "Minnesota",
+        "restrictions": "",
+        "role": "Associate Software Engineer Intern",
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -12220,6 +12508,22 @@
         "restrictions": "",
         "role": "Commodity Markets Analyst Intern",
         "url": "https://jobs.nucor.com/job/Cincinnati-Commodity-Markets-Analyst-Intern-(Summer-2027)-OH-45202/1420210100/?ats=successfactors"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Qualcomm",
+        "key": "https://simplify.jobs/p/62317988-f7af-49cb-9853-8ad936c5a1e1",
+        "location": "Toronto, ON, Canada",
+        "restrictions": "",
+        "role": "MSIP Digital Design Verification Engineering Intern - HW",
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721156800"
       },
       "next_attempt": 0.0,
       "sent": 1
@@ -12819,6 +13123,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Eaton",
+        "key": "https://simplify.jobs/p/67f89932-89ec-4154-b294-95ccf7727f94",
+        "location": "Cleveland, TN",
+        "restrictions": "",
+        "role": "R&D Engineer Intern - Research & Development Engineering",
+        "url": "https://eaton.eightfold.ai/careers/job/687239185039"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -13039,6 +13359,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Lazard",
+        "key": "https://simplify.jobs/p/6a0a4b4b-9d3e-4132-8217-ea3095340856",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern - AI & Data Team",
+        "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -13891,7 +14227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Epic Games",
@@ -14051,6 +14387,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Together AI",
+        "key": "https://simplify.jobs/p/71d40ca7-1546-417c-8bf5-c360ac814bb0",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Systems Research Engineer Intern - GPU Programming",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "11d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -14079,6 +14431,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Gordon Food Service",
+        "key": "https://simplify.jobs/p/721628f6-7dc9-47f6-8d08-1283695301ad",
+        "location": "Wyoming, MI",
+        "restrictions": "",
+        "role": "Category Insights Analyst Intern",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -14531,7 +14899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -14627,7 +14995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "LexisNexis Legal & Professional",
@@ -14787,7 +15155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -15571,6 +15939,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "The Brattle Group",
+        "key": "https://simplify.jobs/p/7fcad71e-65cc-40d4-8b02-4bb089e20989",
+        "location": "Toronto, ON, Canada",
+        "restrictions": "",
+        "role": "Energy Analyst Intern - Economics - Multiple Teams",
+        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -16227,7 +16611,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "General Motors",
@@ -16819,7 +17203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Persona AI",
@@ -16851,7 +17235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Auto-Owners Insurance",
@@ -16991,6 +17375,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Athene",
+        "key": "https://simplify.jobs/p/8aed5327-2fc7-4616-9983-929999e4d871",
+        "location": "West Des Moines, IA",
+        "restrictions": "",
+        "role": "Software Developer Intern",
+        "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -17683,6 +18083,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Belden",
+        "key": "https://simplify.jobs/p/90393d51-e3aa-4a50-9613-f7b547fcae58",
+        "location": "Carmel, IN",
+        "restrictions": "",
+        "role": "R&D Cable Intern",
+        "url": "https://careers.belden.com/job/Carmel-R&D-Cable-Internship-IN-46032/1431653800/?ats=successfactors"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -17823,6 +18239,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Royal Bank of Canada",
+        "key": "https://simplify.jobs/p/91247b54-ac3d-4bae-a026-d7d1b1f59880",
+        "location": "Minneapolis, MN",
+        "restrictions": "",
+        "role": "Wealth Management Technology Intern",
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -19155,6 +19587,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Amazon",
+        "key": "https://simplify.jobs/p/9d3485fc-e9c9-4315-b9af-f839b852b2a6",
+        "location": "Vancouver, BC, Canada",
+        "restrictions": "",
+        "role": "Software Development Engineer Intern - Summer 2027",
+        "url": "https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -19939,6 +20387,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Centene",
+        "key": "https://simplify.jobs/p/a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
+        "location": "Missouri",
+        "restrictions": "",
+        "role": "Data and Analytics Intern - Undergraduate",
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -19983,6 +20447,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Publicis Groupe",
+        "key": "https://simplify.jobs/p/a4432340-1e42-4079-be3e-d590b4a323ec",
+        "location": "Chicago, IL",
+        "restrictions": "",
+        "role": "Product Manager Intern - Class of 2028",
+        "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -21327,6 +21807,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "21d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Schroders",
+        "key": "https://simplify.jobs/p/ade53b06-3917-4447-9f7a-29db35b50253",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Public Markets Quants Intern - Quants (Public Markets)",
+        "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -23379,6 +23875,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/bd8058b7-a84d-4dfb-91d8-845c08275253",
+        "location": "Cedar Rapids, IA",
+        "restrictions": "",
+        "role": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "22d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -24083,6 +24595,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Together AI",
+        "key": "https://simplify.jobs/p/c44d5bae-3113-405a-844d-b54205f48458",
+        "location": "SF",
+        "restrictions": "Advanced degree required",
+        "role": "Research Intern - Frontier Agents 🎓",
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -24355,6 +24883,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "American Family Insurance Group",
+        "key": "https://simplify.jobs/p/c639bbc2-7340-465e-b311-f2a6a96cc06d",
+        "location": "Madison, WI",
+        "restrictions": "",
+        "role": "Internal Data and Analytics Intern - Summer 2027",
+        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -24467,7 +25011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "General Motors",
@@ -24620,6 +25164,22 @@
         "restrictions": "",
         "role": "AI and Analytics Intern",
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Qualcomm",
+        "key": "https://simplify.jobs/p/c813d20a-e18e-44ee-a07c-d6a1851441c9",
+        "location": "Toronto, ON, Canada",
+        "restrictions": "",
+        "role": "IP Applications Engineering Intern - Interim Engineering Intern - HW",
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721156615"
       },
       "next_attempt": 0.0,
       "sent": 1
@@ -25075,7 +25635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "DV Trading",
@@ -26067,6 +26627,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/d473bd44-d390-41bc-b173-144940110b9e",
+        "location": "SF",
+        "restrictions": "Advanced degree required",
+        "role": "Product Data Science Intern 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -26419,7 +26995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Honeywell",
@@ -26579,7 +27155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "General Motors",
@@ -26707,7 +27283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Rystad Energy",
@@ -27571,6 +28147,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Guardian Life",
+        "key": "https://simplify.jobs/p/e2dab9b3-410e-452f-8887-b5fe754550ad",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Summer Intern - Group Benefits Product Management",
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -27811,7 +28403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Honeywell",
@@ -28467,7 +29059,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "General Motors",
@@ -29043,7 +29635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Northwood Space",
@@ -30099,6 +30691,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/f42adf96-f242-4f29-8953-d237b9a04ad2",
+        "location": "Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Learning-Based Behavior Intern 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8203191"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -30739,6 +31347,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "General Motors",
+        "key": "https://simplify.jobs/p/f9a08de0-d633-4b19-b444-8002689fc795",
+        "location": "Austin, TX; Warren, MI",
+        "restrictions": "",
+        "role": "Product Management Intern - Digital Product",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -31267,6 +31891,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Klaviyo",
+        "key": "https://simplify.jobs/p/fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Product Manager Co-op - Spring 2027",
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -31491,7 +32131,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"511dfc5ea28c4219e39f0e68620b22a68bbd9d0bafbb934b3aabb18245d87a64\"",
+    "etag": "\"a9149603b40d819e8533aff2ba11341b7fb13a6724f980394e1ff80b439d91f0\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
