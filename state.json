@@ -4931,6 +4931,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Deloitte",
+        "key": "https://simplify.jobs/p/2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Data & AI Solutions Engineering Summer Scholar Intern",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -32243,7 +32259,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"37538522f7c3d7a44948af17c554b32deceb536b0c20b244b23b8064392b1be5\"",
+    "etag": "\"f6717ebf8cc7da8bcc0dfb7a666ca049ecadf70f5336af6a4e24353a7d66e7be\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
