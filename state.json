@@ -14723,7 +14723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "CSX",
@@ -32275,7 +32275,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c504293a6eefbddfbba5c5ad6b5a06f0cb656af84810174daa632180c9f2bce4\"",
+    "etag": "\"bc1189672227740570a610eb93e1d0ac3ae739517b68b91a3b9c55b22ab536f7\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
