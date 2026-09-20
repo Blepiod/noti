@@ -21075,7 +21075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Zions Bank",
@@ -32323,7 +32323,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"88fd0cf55718c39283e0ef9adad8694a2d36290ce404f507f5c3e331ba0f19f1\"",
+    "etag": "\"d7ae3d2a68596ed4097053d47a2f61095fde7766105d0f2d66afecea7e6d2771\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
