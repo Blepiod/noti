@@ -323,7 +323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "WhiteWater Midstream",
@@ -1715,7 +1715,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Susquehanna International Group",
@@ -15427,7 +15427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Susquehanna International Group",
@@ -32691,7 +32691,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"ae1b7f4f4819c17aa93d617e9ed7d3311cc5131e6d6cc3417351f61967e710ce\"",
+    "etag": "\"ad204014077f3a86418bc2fefd62d12cd4ab7f86a4913dab5221a80297c84163\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
