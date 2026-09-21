@@ -3107,7 +3107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "CSX",
@@ -22259,7 +22259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Schroders",
@@ -32691,7 +32691,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"97a2f5cb20bdef1fcb0a69a35a0710257fc9f7f3bdf0fd338deb9424611203c4\"",
+    "etag": "\"6b500fa9492716b4ec2ce707f84987d28b450019c77628b9ec6aca9d119444f5\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
