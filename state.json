@@ -18628,6 +18628,22 @@
       "attempts": 0,
       "job": {
         "age": "6d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Lowe's",
+        "key": "https://simplify.jobs/p/8a8f9aee-a750-4b17-a552-e19c07344085",
+        "location": "Mooresville, NC",
+        "restrictions": "",
+        "role": "Store Operations Corporate Facilities Intern",
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "6d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Duolingo",
@@ -25555,7 +25571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -34403,7 +34419,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"15385ee97cc9867d1c3816bbfb0668c0b3282889147ff070a2cf1002c5ec3b67\"",
+    "etag": "\"e3b824dcd9c496ef04fb8de4187c42f596240c4f221f6e30e1b1864e940aa134\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
