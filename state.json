@@ -4355,7 +4355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Textron",
@@ -5875,6 +5875,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
+        "location": "Mountain View, CA",
+        "restrictions": "",
+        "role": "Embedded Intern - Software Engineer",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "6d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -6227,7 +6243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -7411,7 +7427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -10275,7 +10291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Textron",
@@ -11587,7 +11603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -14947,7 +14963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -17603,7 +17619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Textron",
@@ -18371,7 +18387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -20899,7 +20915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tanium",
@@ -23235,7 +23251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -24899,7 +24915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Northwood Space",
@@ -26947,7 +26963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Northwood Space",
@@ -28403,7 +28419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Skydio",
@@ -30883,6 +30899,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/e764c6d5-8016-405f-9cf4-3ab1d55828be",
+        "location": "Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Software Engineer Intern - MS/PhD - Simulation 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -31055,6 +31087,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56",
+        "location": "Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34339,7 +34387,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"2116df07e23acd94a3394abbbd4a61429b797680174bbaac2210898794dcd1b7\"",
+    "etag": "\"d7cef0098c362b1baab9597aa800631d7d0ac07ff4a9c5edbefe4c39ee9435fd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
