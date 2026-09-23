@@ -147,6 +147,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/021ab755-0612-4b89-bce6-f907b348959f",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Records and Information Management",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -179,7 +195,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -2291,7 +2307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Scale AI",
@@ -4067,7 +4083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -4291,7 +4307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -5251,6 +5267,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/239a42c1-942f-4900-85bb-45486d858a6d",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Digital Analytics",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -5891,6 +5923,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Zipline",
+        "key": "https://simplify.jobs/p/27be24cd-78e1-4eca-9e66-1c1004286831",
+        "location": "South SF",
+        "restrictions": "Advanced degree required",
+        "role": "Autonomy Intern 🎓",
+        "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -6255,6 +6303,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "CACI",
+        "key": "https://simplify.jobs/p/2afb885b-d426-47bd-9dc0-80b026d499f5",
+        "location": "Annapolis Junction, MD; Fort Meade, MD",
+        "restrictions": "",
+        "role": "AI Systems Engineer Intern - Summer 2027",
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -7619,7 +7683,23 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/355ed1b0-6a7f-4f62-9f79-2eabc525e9cd",
+        "location": "Cedar Rapids, IA",
+        "restrictions": "",
+        "role": "Factory Enablement Digital Engineer Co-op",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "27d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -8147,7 +8227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -9379,7 +9459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -10995,6 +11075,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Data Governance & AI Governance",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -12003,6 +12099,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/56176872-3480-423d-9dd5-9d705a881462",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Mobile Software Engineering Team",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -12019,7 +12131,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Dell Technologies",
@@ -14147,7 +14259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -14627,7 +14739,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -16099,7 +16211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -17315,6 +17427,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/7cbed2dc-96cc-4a07-af63-5f826133f4d3",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Research Insights",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -18175,6 +18303,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/831cd663-ae9c-4929-bd0b-6c8cf71391fe",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "College Intern - Healthcare Statistical Analytics",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -19363,7 +19507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -20671,6 +20815,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "The Federal Reserve System",
+        "key": "https://simplify.jobs/p/94633c06-dba7-4588-8490-dce1ed065b8d",
+        "location": "Richmond, VA",
+        "restrictions": "",
+        "role": "Research Business Survey Intern",
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -22659,7 +22819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -22963,7 +23123,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Demco Products",
@@ -24355,7 +24515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Universal Health Services",
@@ -24515,7 +24675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -25523,7 +25683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "SEP",
@@ -25859,6 +26019,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "CACI",
+        "key": "https://simplify.jobs/p/b981ecc6-774f-424a-ab63-513d50a5becc",
+        "location": "Sterling, VA",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Summer 2027",
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "11d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -25967,6 +26143,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -28323,7 +28515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -28367,6 +28559,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Bedrock Robotics",
+        "key": "https://simplify.jobs/p/cd26cfb9-50c6-440f-8b4a-6d6f97b14d32",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Evaluation Engineer Intern - Metric Prototyping",
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -28787,7 +28995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -28975,6 +29183,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Neuberger Berman",
+        "key": "https://simplify.jobs/p/d19faef5-69be-4dee-b896-16d292336009",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Quantitative Analyst Intern",
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -29203,7 +29427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Hudl",
@@ -29459,7 +29683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "InfiniteQuant",
@@ -29603,6 +29827,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/d69cc4b1-6d03-4c5e-8430-4c567709546c",
+        "location": "Cedar Rapids, IA",
+        "restrictions": "",
+        "role": "Factory Enablement Digital Engineer Co-op",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -29619,7 +29859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Medpace",
@@ -30403,7 +30643,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -31171,7 +31411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Google",
@@ -32451,7 +32691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Google",
@@ -32883,7 +33123,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -34131,7 +34371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -35283,6 +35523,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Excellus BCBS",
+        "key": "https://simplify.jobs/p/ff6acfde-5cfa-48f1-9900-723a0df08069",
+        "location": "Rochester, NY; De Witt, NY; Utica, NY; Albany, NY; Binghamton, NY; Buffalo, NY",
+        "restrictions": "",
+        "role": "Healthcare Analytics Intern - Healthcare Analytics",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -35363,7 +35619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robinhood",
@@ -35411,7 +35667,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"35a00335c4093b388a73b36867a321e03bf34098e3b8af02980dbe26dd5b487c\"",
+    "etag": "\"69cb433e25b1cbe1804407888a5088f08e289766a6190e1219f29baa4522fc59\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
