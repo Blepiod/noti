@@ -14323,7 +14323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "AMD",
@@ -36243,7 +36243,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"e25f43de1afd6023f8d8430aa9492fd133283ee94580bdea14e535f35842e373\"",
+    "etag": "\"d318ac9457315da046d62524fbf86f0764f9f59826bee9e6df9037a4b272cc4f\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
