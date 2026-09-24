@@ -7763,7 +7763,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Figma",
@@ -8211,7 +8211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Elk Valley Resources",
@@ -12259,7 +12259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -16771,7 +16771,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -16899,7 +16899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Hermeus",
@@ -22339,7 +22339,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tive",
@@ -26403,7 +26403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "National Life",
@@ -27539,7 +27539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Figma",
@@ -27699,7 +27699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -28547,7 +28547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -36419,7 +36419,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c6cae1b572302b7e23e9e1bbc1d8d133f1ec880a2f3483d5a61ffe35b73cacd7\"",
+    "etag": "\"4e1474ec9977a056d45e8a63c3238d4aac89118bcbe4dc28cbbb6435a810bf71\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
