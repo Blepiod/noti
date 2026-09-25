@@ -8803,7 +8803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ByteDance",
@@ -9459,7 +9459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -23747,7 +23747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ByteDance",
@@ -37123,7 +37123,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"0f3fc01614bf4c401312b7ea3f6e2759b5039c36c4eb7f35f4340af18c2dda18\"",
+    "etag": "\"2494584b459a10ab81042c24eb464c87219cf1d2e957fa0b022db593fdaa2b18\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
