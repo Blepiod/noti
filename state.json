@@ -451,7 +451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "WhiteWater Midstream",
@@ -37283,7 +37283,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"68d8ca0a65b4bc73ca95f2f56846de9a090115414e15e0b4acab1c7f5cc766b0\"",
+    "etag": "\"845932cf0ff0098728eeec4582b696a7f9c44b751ec48a1c085a04c184d6c778\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
