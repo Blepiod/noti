@@ -33507,6 +33507,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "10d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Highgate",
+        "key": "https://simplify.jobs/p/e7bcc39a-7fdd-453f-b556-1ee9c411c5c9",
+        "location": "Miami, FL",
+        "restrictions": "",
+        "role": "Revenue Management Intern - Summer 2027",
+        "url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -34415,6 +34431,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "10d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Highgate",
+        "key": "https://simplify.jobs/p/ed6d741a-4749-4428-a9e6-418e0beeee88",
+        "location": "LA",
+        "restrictions": "",
+        "role": "Revenue Management Intern",
+        "url": "https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -36899,7 +36931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "10d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Highgate",
@@ -37155,7 +37187,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"4e8b0ee12de853029838ac6e3e1c4e0c9218980009c2e5b682101c5a8c4e1b53\"",
+    "etag": "\"6528b8dea1fa20ba36621ef54f851b6a66d089b313e2d24646b28028c3164f7b\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
