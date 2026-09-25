@@ -5523,7 +5523,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -7939,7 +7939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -17379,7 +17379,23 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "10d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Highgate",
+        "key": "https://simplify.jobs/p/76ef25fd-801d-4c81-9867-64085601c325",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Revenue Management Intern - Summer 2027",
+        "url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -17827,7 +17843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -18339,7 +18355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -22835,7 +22851,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -30019,7 +30035,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -33971,7 +33987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -37139,7 +37155,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"f77f196ac236315244c7092d914276a2ce31e881adec0d568a87dc2f1d21437e\"",
+    "etag": "\"b37443ba2796d88a764d8f84bb11ff33db05d79247ab3655230f1263d8f7b962\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
