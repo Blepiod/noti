@@ -3683,7 +3683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -17667,7 +17667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -17971,7 +17971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -20515,7 +20515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Persona AI",
@@ -38035,7 +38035,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"2d97eeb7b00394f16352313dadf1d27ede7bd1673486544ec2e704dda74108f0\"",
+    "etag": "\"60e3ac29d6ffb80d61b5be23650feb298c60af8618e94832fb63e4c5d12f45da\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
