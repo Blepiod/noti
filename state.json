@@ -1363,7 +1363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Charles Schwab",
@@ -20611,7 +20611,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Auto-Owners Insurance",
@@ -22163,7 +22163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Charles Schwab",
@@ -38115,7 +38115,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"9494d96eb63a7434cb12afe498852afbab65babbfcbc6c3e3b5912f26acc25dd\"",
+    "etag": "\"8283bf640d8e3e715b02649147baf6a0f8ed7c8e954d7442e82a965132b5341f\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
