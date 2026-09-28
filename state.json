@@ -3219,7 +3219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Ulta Beauty",
@@ -3251,7 +3251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Klaviyo",
@@ -26051,7 +26051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ulta Beauty",
@@ -38115,7 +38115,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b6fa9a3e9ea733ad60b87584971c17c4339affc733762f66eae76480f446a18d\"",
+    "etag": "\"60ac7f7cc2477646c564fd1402d32bd296ab43c42499a25db93526e7bfb56198\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
