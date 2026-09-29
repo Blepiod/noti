@@ -28659,7 +28659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -30127,6 +30127,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Lyft",
+        "key": "https://simplify.jobs/p/c7c17455-a74b-4c94-b5fd-3e46dc9867de",
+        "location": "SF",
+        "restrictions": "Advanced degree required",
+        "role": "Applied Scientist Intern 🎓",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -38467,7 +38483,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"d570ba1db7536769fdee442dde08631fdc34cff1785a778601af25a762705621\"",
+    "etag": "\"b9273b244f11de06131fc6faa8a248a2cc85f61962975de704ae41ce3c2ca1b5\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
