@@ -3683,7 +3683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -18019,7 +18019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -20579,7 +20579,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Persona AI",
@@ -38115,7 +38115,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"0a25859dc198d8260682ff48b66348ae9d4a3a766d8902610a524755b1d9297f\"",
+    "etag": "\"e1b169d3137f95d3bae4846827bca76c9ffea63a226776f0073d79883bbb622b\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
