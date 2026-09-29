@@ -2979,6 +2979,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "14d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/139c5ee4-482e-40f4-9946-3027f84308e3",
+        "location": "Burnsville, MN",
+        "restrictions": "",
+        "role": "Test Engineering Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Test-Engineering-Intern--Summer-2027-_01872154"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -3359,6 +3375,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "8d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/159f82a2-c7ed-4eee-8157-6d300f593c83",
+        "location": "Cedar Rapids, IA",
+        "restrictions": "",
+        "role": "Systems Engineer Co-op - Spring/Summer 2027",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -16127,6 +16159,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Waymo",
+        "key": "https://simplify.jobs/p/6acc24ca-3ff2-4d56-a40c-e531d2a57522",
+        "location": "Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Machine Learning Research Intern - Planning/Prediction 🎓",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -38419,7 +38467,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"d6929c258c0e6464b43390d8d68754c9e7fe5e208248bcb80979afb321c9f108\"",
+    "etag": "\"d570ba1db7536769fdee442dde08631fdc34cff1785a778601af25a762705621\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
