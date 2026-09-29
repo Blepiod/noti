@@ -83,6 +83,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Q2",
+        "key": "https://simplify.jobs/p/01769f39-4af0-402c-a217-88c13dd5d513",
+        "location": "Cary, NC",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -4879,6 +4895,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Perchwell",
+        "key": "https://simplify.jobs/p/1ee79857-d633-45a7-8e77-d969ec16837d",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -10211,7 +10243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Dropbox",
@@ -12335,6 +12367,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/51b8b3e7-e7d0-4727-9f90-91917bc88230",
+        "location": "Woburn, MA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -17087,6 +17135,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Perchwell",
+        "key": "https://simplify.jobs/p/70276fbb-025b-4544-b0c0-db8dc7259234",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Data Analytics Engineering Intern",
+        "url": "https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -23075,7 +23139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ByteDance",
@@ -31635,6 +31699,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Q2",
+        "key": "https://simplify.jobs/p/d27ce4c9-b5bf-4de0-a7f5-2e540532f643",
+        "location": "Cary, NC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -38563,7 +38643,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"a5de5216000b7c559873b7d279c6ea24f59b8a646e19f854da8a79bcace15ca1\"",
+    "etag": "\"9c10cdcb695e96a7411baf92ec79ddcb18d5087400ef227eb44a6c71b405c899\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
