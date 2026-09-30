@@ -21059,6 +21059,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "9d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "GE Healthcare",
+        "key": "https://simplify.jobs/p/864cc8b9-b420-476e-a6a6-b9bb048c678d",
+        "location": "Salt Lake City, UT",
+        "restrictions": "",
+        "role": "Systems Engineer Intern",
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Systems-Engineering-Internship_R4046627-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -39571,7 +39587,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"5c1799e11ce152f07b55b17d2af2311107b43f76011ae2f2475f374f4651b681\"",
+    "etag": "\"b0d5175ca60516d5fb82abf90359d7c1a72d0fb586dbc6bd59eaa57215a104bd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
