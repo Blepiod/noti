@@ -4515,6 +4515,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "2d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "POET",
+        "key": "https://simplify.jobs/p/1c05aeb6-1548-460d-ac98-cca04204d3a7",
+        "location": "Sioux Falls, SD",
+        "restrictions": "",
+        "role": "Data Engineer Intern",
+        "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -5923,7 +5939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -18579,7 +18595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -19059,7 +19075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -19587,7 +19603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -24291,7 +24307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -31779,7 +31795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -39507,7 +39523,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c427e027a8573b032be471fc6f18561ff9d34ce4378393efab79178f5256a922\"",
+    "etag": "\"d24bfe40b70aeddf0aa2fbb7af2dd2c045db95357039001fe57eac703d553c75\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
