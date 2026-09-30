@@ -25171,6 +25171,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "UL Solutions",
+        "key": "https://simplify.jobs/p/a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
+        "location": "Northbrook, IL; Chicago, IL",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -39523,7 +39539,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"1c59df3ea0f7207ce9ff7f993edd6b9f2d34b31d6dc18aa574023831a474cd45\"",
+    "etag": "\"364dff116b57ac7513e72d7c8cbd543d879105d825e1b362f3ccf19643ac04d9\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
