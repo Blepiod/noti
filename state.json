@@ -32035,6 +32035,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "16d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Invesco",
+        "key": "https://simplify.jobs/p/d096b257-6582-4ea3-a158-b1a0dc715999",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Early Career Intern - Digital Asset Product",
+        "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -34351,6 +34367,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "16d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Invesco",
+        "key": "https://simplify.jobs/p/e02669bd-1cd4-43fc-ac1d-89d029602b6e",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Early Career Intern - Digital Asset Product",
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -39587,7 +39619,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"6513070568a4a22e47ec814ada6dd6d0e2b0c76d5b26ce7beb8e05757882297e\"",
+    "etag": "\"7515aed1c5669f03d2f45a99ccb634efcc8c6fe00fd0681beb9f07ea7af29d2e\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
