@@ -29363,7 +29363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -37779,6 +37779,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Qualcomm",
+        "key": "https://simplify.jobs/p/f478095f-4d9f-407a-8d22-d320f0186e98",
+        "location": "Ottawa, ON, Canada",
+        "restrictions": "",
+        "role": "Soft IP ASIC Engineer Intern",
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721302471"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -39539,7 +39555,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"364dff116b57ac7513e72d7c8cbd543d879105d825e1b362f3ccf19643ac04d9\"",
+    "etag": "\"0175c6e62912897a20ca64f102f27428542f2dc7487140fc8f2642ef9ff69774\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
