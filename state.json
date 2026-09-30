@@ -5491,6 +5491,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "H&R Block",
+        "key": "https://simplify.jobs/p/21792146-80f9-45a6-ade2-d26fd0098c49",
+        "location": "Kansas City, MO",
+        "restrictions": "",
+        "role": "Financial Services Data Analytics Intern",
+        "url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -39491,7 +39507,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"81ca9fe27e76f898a114873744b479d6f185ba3ad476b69e594800c5b209b27a\"",
+    "etag": "\"c427e027a8573b032be471fc6f18561ff9d34ce4378393efab79178f5256a922\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
