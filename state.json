@@ -25859,7 +25859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Southern Star Central Gas Pipeline",
@@ -40467,7 +40467,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b1ef3d98dd17ac35c1a2b37119d003186011c505807daaadbfd4f80d66bdca9b\"",
+    "etag": "\"24eaaa6483546e735e3104d11a16014ac33d0e46f671753ece17d83e2ee5b094\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
