@@ -2867,7 +2867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "10d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "RTX",
@@ -18371,6 +18371,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/7344ee5e-5174-44c2-acec-12e21379b83f",
+        "location": "Annapolis, MD",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -26467,7 +26483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Zions Bank",
@@ -31039,6 +31055,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Capital One",
+        "key": "https://simplify.jobs/p/c560783a-f942-4881-a14d-0c3cae59d101",
+        "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
+        "restrictions": "Advanced degree required",
+        "role": "MBA Product Intern 🎓",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -40435,7 +40467,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"ca324ecabd9313026e3d7ce21d147d0a2cc5989a31aa9c17d1b8c9860b18547c\"",
+    "etag": "\"ea97b7af04ad413e1b1cd25acea1cbdac1aa9cdaa8b5510bfa3accb37e0ecd7e\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
