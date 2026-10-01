@@ -2627,7 +2627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Scale AI",
@@ -6691,7 +6691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -9363,7 +9363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -13683,7 +13683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Dell Technologies",
@@ -22035,7 +22035,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -25779,7 +25779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -26115,7 +26115,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Demco Products",
@@ -27667,7 +27667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Universal Health Services",
@@ -27843,7 +27843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Principal Financial Group",
@@ -28931,7 +28931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "SEP",
@@ -31347,6 +31347,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "30d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Travelers",
+        "key": "https://simplify.jobs/p/c6dd05de-594d-4fa3-8da1-c646ae0eca31",
+        "location": "Hunt Valley, Cockeysville, MD; Hartford, CT; Atlanta, GA; St Paul, MN",
+        "restrictions": "",
+        "role": "Engineering Development Intern",
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "19d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -33155,7 +33171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Hudl",
@@ -34595,7 +34611,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -37459,7 +37475,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -40419,7 +40435,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"152970e7e1f124281d0d03fca0d234c7d0dce5271499c4d8abca4be56b6798a5\"",
+    "etag": "\"ca324ecabd9313026e3d7ce21d147d0a2cc5989a31aa9c17d1b8c9860b18547c\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
