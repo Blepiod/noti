@@ -211,7 +211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -787,7 +787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Qorvo",
@@ -7955,7 +7955,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -11907,7 +11907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -16803,7 +16803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -34355,7 +34355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -40179,7 +40179,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"82971cba75d0bb5c16aec43ce6302c3b4f001bb7f762eddcb0012198d52636b3\"",
+    "etag": "\"be1f0ffc0854efe6d8c3988222100d6448b492de44de381dde280636c7d90779\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
