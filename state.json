@@ -691,7 +691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -8515,7 +8515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -13731,7 +13731,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "AXQ Capital",
@@ -14339,7 +14339,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cvent",
@@ -22707,7 +22707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Aerotech",
@@ -23907,7 +23907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -29523,7 +29523,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "The Exploration Company",
@@ -33267,7 +33267,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Innovative Systems",
@@ -39779,7 +39779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -39923,7 +39923,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Westinghouse Electric Company",
@@ -41315,7 +41315,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"529a88e45575bfca8338b439eb71b68aed4bb562813d7a1d44a574efcdeb2b0d\"",
+    "etag": "\"f8b1f2dfbe9a0ab5084d5224ebe074990b0fb998646087e5ceaf2b6be804586a\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
