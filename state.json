@@ -8803,7 +8803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Figma",
@@ -13859,7 +13859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -19123,7 +19123,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -19251,7 +19251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Hermeus",
@@ -25443,7 +25443,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tive",
@@ -30019,7 +30019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "National Life",
@@ -31363,7 +31363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Figma",
@@ -32515,7 +32515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -41635,7 +41635,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"092dd621ba2c1dea21cfa92241047527a69ab8916e40fd4b838ba83cf432b414\"",
+    "etag": "\"23fe62a6379463120a68bd44e4e5f9e1c5b6c8a9acd11086e1d828bdf37b5044\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
