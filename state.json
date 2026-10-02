@@ -10867,7 +10867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Dropbox",
@@ -24723,7 +24723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ByteDance",
@@ -41635,7 +41635,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"89714fe244c9119316bf02653144fed269c6c2aee77181f85464e49434669c13\"",
+    "etag": "\"5bdd916fc9434b24796c3a28d30a89e8fe08e992769b9c330e75bd6d65b08332\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
