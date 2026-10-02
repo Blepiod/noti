@@ -22707,6 +22707,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Helion Energy",
+        "key": "https://simplify.jobs/p/8c0720bf-747e-4a04-b5c4-846531aa0186",
+        "location": "Everett, WA",
+        "restrictions": "Advanced degree required",
+        "role": "Computational Plasma Research Intern 🎓",
+        "url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -30643,7 +30659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -41283,6 +41299,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Stryten",
+        "key": "https://simplify.jobs/p/ff18a224-fab9-4b60-93c1-ca580f75a616",
+        "location": "Alpharetta, GA",
+        "restrictions": "",
+        "role": "System Engineer Intern",
+        "url": "https://jobs.stryten.com/jobs/5799?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -41459,7 +41491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"7b8c3b129c3a7d439bdb0a9887e6b41e44bda23df2774e7e2bd2166a36690869\"",
+    "etag": "\"704df6daee83586ba94f64bf6ea47274eb45c0cc47534ead4048d1baa4241225\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
