@@ -2451,6 +2451,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "8d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "TikTok",
+        "key": "https://simplify.jobs/p/0ea4c6d9-c64c-48a4-af5c-f9cb2fbb082e",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "Product Marketing Management Intern - Systems Strategy & Operations 🎓",
+        "url": "https://lifeattiktok.com/search/7683679497136179509"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -6019,7 +6035,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -19251,7 +19267,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -19747,7 +19763,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -20291,7 +20307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -20531,7 +20547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -24195,6 +24211,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Mindex",
+        "key": "https://simplify.jobs/p/96268a8b-5041-4571-913d-7a04ae9c4c50",
+        "location": "Rochester, NY",
+        "restrictions": "",
+        "role": "Software Engineer Co-op",
+        "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -25251,7 +25283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -33251,7 +33283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -40515,7 +40547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -41427,7 +41459,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"fd37f4fb49640effc785d36644968b9ae9a3a63a03b89b9df6ba28d615c990eb\"",
+    "etag": "\"6049553a8cca61e106ac74635b3ff37dfc43ccf4340e85f30d806a626638fd8c\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
