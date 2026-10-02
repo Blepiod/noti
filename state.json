@@ -2179,7 +2179,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Energy Transfer Partners",
@@ -2995,7 +2995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Wellmark",
@@ -6259,7 +6259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "W.W. Grainger",
@@ -7603,7 +7603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "AutoZone",
@@ -9603,7 +9603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Constellation Energy",
@@ -11811,6 +11811,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Google",
+        "key": "https://simplify.jobs/p/49dad85f-a6af-4fb4-b6e9-20402bab7e9d",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Forward Deployed Engineer Intern",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -13379,7 +13395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Garmin",
@@ -14979,7 +14995,23 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "General Motors",
+        "key": "https://simplify.jobs/p/5c721084-2430-498d-ae4c-d36aeaee8fac",
+        "location": "Sunnyvale, CA",
+        "restrictions": "",
+        "role": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Astranis",
@@ -15379,7 +15411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tesla",
@@ -17875,7 +17907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Constellation Energy",
@@ -18099,7 +18131,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -18371,7 +18403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Constellation Energy",
@@ -19263,6 +19295,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "General Motors",
+        "key": "https://simplify.jobs/p/7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
+        "location": "Sunnyvale, CA",
+        "restrictions": "Advanced degree required",
+        "role": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation 🎓",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -20179,7 +20227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AutoZone",
@@ -20803,7 +20851,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Wellmark",
@@ -21023,6 +21071,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "General Motors",
+        "key": "https://simplify.jobs/p/827ccc8c-5daf-4ca9-90a9-badca54261a8",
+        "location": "Sunnyvale, CA",
+        "restrictions": "",
+        "role": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -21587,7 +21651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "AutoZone",
@@ -25043,7 +25107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AMCA",
@@ -25619,7 +25683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Boston Scientific",
@@ -26595,7 +26659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Primer",
@@ -27827,7 +27891,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Atlassian",
@@ -31587,7 +31651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -37907,7 +37971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Tighe & Bond",
@@ -38019,7 +38083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Flint",
@@ -41363,7 +41427,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"a245d134d43ffbf83e63ba3d207e50ce738f9c1d79321982def22a3b48d489b9\"",
+    "etag": "\"31008ecb02724c8c86b200f56b2badcf678e657b7c7419bc287a217c75b1f680\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
