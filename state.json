@@ -4483,7 +4483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Pella",
@@ -15107,7 +15107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Emerson Electric",
@@ -27811,7 +27811,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Tower Research Capital",
@@ -28307,7 +28307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Western & Southern Financial Group",
@@ -28691,7 +28691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Dev Technology Group",
@@ -30163,7 +30163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Western & Southern Financial Group",
@@ -33043,7 +33043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Dev Technology Group",
@@ -34307,7 +34307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Western & Southern Financial Group",
@@ -35779,7 +35779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Dev Technology Group",
@@ -39523,7 +39523,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Dev Technology Group",
@@ -39955,7 +39955,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Pella",
@@ -41635,7 +41635,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"19f7ec0c36506a18a6443f1889edd185d6057de134fec03bdc5152d8a319ac4f\"",
+    "etag": "\"22b503e21e5cea216f7cc58d387672fdb5dba20ee6e085473b038769b70a9fc0\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
