@@ -8211,6 +8211,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Great American Insurance Company",
+        "key": "https://simplify.jobs/p/319f5acd-d41e-4a2d-ba38-489c86ff3b27",
+        "location": "Cincinnati, OH",
+        "restrictions": "",
+        "role": "Enterprise Analytics Intern",
+        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -16559,6 +16575,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Vanguard",
+        "key": "https://simplify.jobs/p/665e2669-0a2a-4e07-9859-73f9f3e9b83d",
+        "location": "Malvern, PA",
+        "restrictions": "",
+        "role": "College to Corporate IT Intern - Application Development",
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -25027,6 +25059,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Regeneron Pharmaceuticals",
+        "key": "https://simplify.jobs/p/9bb48f7f-80ad-4eca-8055-cc250ab3295f",
+        "location": "Tarrytown, NY",
+        "restrictions": "",
+        "role": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+        "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -27139,7 +27187,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Zions Bank",
@@ -30767,6 +30815,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "MFS",
+        "key": "https://simplify.jobs/p/bde46e9c-18de-4bfe-a880-12c5a4719dbb",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Enterprise Data Management Intern",
+        "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -41539,7 +41603,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"257c3192b818da10d8d0d8e48879953e3ae2c8bbbcf53a83ef3569020da2e9ce\"",
+    "etag": "\"b4d0783e934d761c55482075c8d98a605d5edd839cad8af40d2a6663ea309611\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
