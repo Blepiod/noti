@@ -31363,7 +31363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -39171,6 +39171,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Pinterest",
+        "key": "https://simplify.jobs/p/eda40edd-acbe-4e9d-98b6-9591dea895bc",
+        "location": "Remote in USA",
+        "restrictions": "Advanced degree required",
+        "role": "UX Quantitative Research Intern 🎓",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -42371,7 +42387,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"182858e820505dffa9c17bd58852ed356ae84960397b3b5a785cc348c11b2aad\"",
+    "etag": "\"d436395a8873e4f81f1db3945547e235777f6fca540db43c3cc90f8feaa172dc\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
