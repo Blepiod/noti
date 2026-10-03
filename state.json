@@ -5539,7 +5539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -7235,7 +7235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Johns Hopkins Applied Physics Laboratory",
@@ -42371,7 +42371,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"9b062f7594b7c1891f4cb3525af41601918ccaa814d798583efa61f3bed790d4\"",
+    "etag": "\"1c390c888bfc59cbfeeb179b1b3bc4b6ca64ebf65ee629dfc720476be98c1d1f\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
