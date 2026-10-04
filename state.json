@@ -21171,7 +21171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Hadrian",
@@ -25171,7 +25171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Garda Capital Partners",
@@ -28691,7 +28691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Hadrian",
@@ -42483,7 +42483,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"7b1906edcff660d385e992443aa672710489a4242ed45742f4a8a3c0828643ae\"",
+    "etag": "\"97a2da871fdfa3c6296ed8a55af77ff480b3e4610644b3d70b132d1fb6af3559\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
