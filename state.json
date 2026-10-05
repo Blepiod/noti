@@ -34387,6 +34387,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "16d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Etched",
+        "key": "https://simplify.jobs/p/cce7f674-04ef-491a-8e8d-9adbfff6a06f",
+        "location": "San Jose, CA",
+        "restrictions": "",
+        "role": "RTL Intern",
+        "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "19d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -43187,7 +43203,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"6825708cf31890d74284a53320bc7e06ffc9b6b1fc48a34a24d628729a68eec5\"",
+    "etag": "\"fc5eb6fed9279e218800efb191eeb88cf0df44dfaee3ccae27670bda6e420a0c\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
