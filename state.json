@@ -21363,7 +21363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -25171,7 +25171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -26291,7 +26291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -42227,7 +42227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -43219,7 +43219,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"35cd67084f4b8d1521a9e1cbcd710b13417b6eab1a774a611bc379c58a3b6cca\"",
+    "etag": "\"7d6dc9ac92ed9690aeb917705b0602f7362b7cafe816f05d4c9af90bed2edaf3\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
