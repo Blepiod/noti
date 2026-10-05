@@ -24547,7 +24547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ragle Inc",
@@ -28371,7 +28371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ernst & Young",
@@ -31539,7 +31539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Westinghouse Electric Company",
@@ -39379,7 +39379,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Johns Hopkins Applied Physics Laboratory",
@@ -39971,7 +39971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Westinghouse Electric Company",
@@ -43411,7 +43411,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"6580a0dff895e448f6c997e6b6c5c280fca6beb263e236fea3043aa6bbe8c34f\"",
+    "etag": "\"e967dc41b7356d5906adbb4cb46033466af9798f96d1f9a4a4f1108f3c335bc8\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
