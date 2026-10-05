@@ -5603,7 +5603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -43219,7 +43219,7 @@
   ],
   "meta": {
     "delivery_resume": "1791183140.849827",
-    "etag": "\"d3b4c59041246d18612060a197e4908d871a938d6e1e81d08abd3a2e5294c334\"",
+    "etag": "\"7b29c8497105d25763c6785e9de272db803df01abc7449890703d7b327f1d525\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
