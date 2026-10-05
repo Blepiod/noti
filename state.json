@@ -12835,6 +12835,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "NVIDIA",
+        "key": "https://simplify.jobs/p/4cf30745-6f3b-4afc-b4a7-8c156b74804c",
+        "location": "Santa Clara, CA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -16351,6 +16367,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "NVIDIA",
+        "key": "https://simplify.jobs/p/613293d2-6943-4f9a-ab4a-7bb7883891fc",
+        "location": "Santa Clara, CA",
+        "restrictions": "",
+        "role": "Hardware Engineering Intern",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -43219,7 +43251,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c3a007f81295b6c2037c32195427500113b740a9038e8efa25f9cc8bf16cf9ef\"",
+    "etag": "\"c14e3d53439d197c4770a9713ca8a474bffb6a5b362d874196f1def68bbc34c1\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
