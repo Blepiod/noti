@@ -42275,6 +42275,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "4d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Associated Bank",
+        "key": "https://simplify.jobs/p/f2bb0ff1-d4c7-4c79-9e2a-bcb920182f37",
+        "location": "Milwaukee, WI",
+        "restrictions": "",
+        "role": "Corporate Intern - Product Development",
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Product-Development_JR106518"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -44531,7 +44547,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"73f816fb5f30ea9c1954ca6b132817505df0ce1fb2a6abb88875c01e35c1abff\"",
+    "etag": "\"8724eedafb6ebfbeff032dfacc97d1f7a9257e96ccfc1b4f886ee3ca5b184a9d\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
