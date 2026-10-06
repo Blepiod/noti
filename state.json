@@ -15491,7 +15491,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "RAVE Aerospace",
@@ -44531,7 +44531,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"0431716aba2eed192fe678f1ad8e4bde228307e326e598b89145111073671b0c\"",
+    "etag": "\"f2b618100b52aa53e4974a827e4a4da3f486114be5b2c331cc281df942765e21\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
