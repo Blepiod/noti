@@ -14627,7 +14627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "COUNTRY Financial",
@@ -41251,6 +41251,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "6d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "The Federal Reserve System",
+        "key": "https://simplify.jobs/p/e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
+        "location": "Cleveland, OH",
+        "restrictions": "",
+        "role": "Research Intern",
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -45779,7 +45795,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"ea67275a97633e7be1272e4704a41d0a3fb0c357c1954185f6c3ebaae2c9afdf\"",
+    "etag": "\"881ec80bad6f80d20da702a23a021bd0ef3ffa53bbbc616f5279e5b377aa02c1\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
