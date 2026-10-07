@@ -28932,6 +28932,22 @@
       "attempts": 0,
       "job": {
         "age": "14d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Marvell",
+        "key": "https://simplify.jobs/p/a2926abf-abfe-45c5-8ae3-d0e67d3daddd",
+        "location": "Chandler, AZ",
+        "restrictions": "",
+        "role": "Security Verification/Validation Engineer Intern",
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Axiom Space",
@@ -42899,6 +42915,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "14d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Marvell",
+        "key": "https://simplify.jobs/p/f015b766-2410-4a4f-bf72-64b133eb1e3e",
+        "location": "Chandler, AZ",
+        "restrictions": "",
+        "role": "Security Verification/Validation Engineer Intern",
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -45747,7 +45779,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"756f85108ab6c5b65fb2bccc5c8136b1c2cd3e5e3e47c82acb5dbda0156db2f8\"",
+    "etag": "\"2f8e90f368b8e1d65d855bea18ce172d5efd360861ea514e4cdd16eda9b4c0db\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
