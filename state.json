@@ -2227,7 +2227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "North Atlantic Industries",
@@ -18435,7 +18435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "North Atlantic Industries",
@@ -28131,6 +28131,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Anduril",
+        "key": "https://simplify.jobs/p/9e2e6559-0af7-4f08-8cca-e4a650d95b46",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -30275,7 +30291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "North Atlantic Industries",
@@ -35347,7 +35363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AnaVation",
@@ -40403,7 +40419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "North Atlantic Industries",
@@ -45539,7 +45555,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Constellation Energy",
@@ -45939,7 +45955,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"cbadcd5974daa2e86bcc43ce083859ecd7ef0fedd21e94ad589228f4680f83f3\"",
+    "etag": "\"c6d0be7f3d0193e4c7fd2288c323d64a2f3e21d5e4143e412b25d7563f8d7259\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
