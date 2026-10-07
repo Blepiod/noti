@@ -33907,7 +33907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -37711,6 +37711,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "key": "https://simplify.jobs/p/d3d10ab7-d5dc-4708-9b54-6176ea96d7f0",
+        "location": "Laurel, MD",
+        "restrictions": "",
+        "role": "Cyber Software Engineer Intern - Capabilities Development",
+        "url": "https://careers.jhuapl.edu/jobs/59779?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -45715,7 +45731,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"1d362620b3e00190a4d45f841f5537b9d45fbb33f42c0e5dc1cd25b9643e54f2\"",
+    "etag": "\"2330d3476f1212293c748bb6ba7fff8c030d7355ecf4b058435896d762cef918\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
