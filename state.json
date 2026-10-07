@@ -5907,7 +5907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -11171,7 +11171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -17295,6 +17295,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Sigma Computing",
+        "key": "https://simplify.jobs/p/6173399c-5581-4c15-9b5b-8f08d3e0bfc4",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "AI/ML PhD Intern 🎓",
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -27555,7 +27571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -29347,7 +29363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -45651,7 +45667,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c20452cfedc41ccefe84dc296b7dbfa5df1e3a3fdb0ad7e8c565769b5ac809cb\"",
+    "etag": "\"33debc3cff9730afdf7d51cc6a9d70ead62b809cce0c64a9523cdca6e4a9af79\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
