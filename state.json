@@ -3875,6 +3875,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "15d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "NewYork-Presbyterian",
+        "key": "https://simplify.jobs/p/157c3d24-c5e0-4535-9ed2-0627c925c4cc",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Finance Intern",
+        "url": "https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Summer-2027-Finance-Internship-Program--Patient-Access-Westchester_00888341"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "22d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -15843,7 +15859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "RAVE Aerospace",
@@ -45699,7 +45715,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b722453245a9f0273071ab8fc98edc43e801dd9c53d45592b1e6d92098735171\"",
+    "etag": "\"ca0a515358565645bb8119acbc0e6f97cf5ffb1a2c6376b3363ff9547933eff5\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
