@@ -7203,6 +7203,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Auto-Owners Insurance",
+        "key": "https://simplify.jobs/p/26dd2b73-7f9e-47f3-8c63-9003aec2977e",
+        "location": "Lansing, MI",
+        "restrictions": "",
+        "role": "Business Intelligence Engineer Intern",
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -21379,6 +21395,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Northrop Grumman",
+        "key": "https://simplify.jobs/p/78a00951-890f-474e-94ee-6e0cc1a2b9f7",
+        "location": "Chantilly, VA",
+        "restrictions": "",
+        "role": "Software Developer Intern",
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -29971,7 +30003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ernst & Young",
@@ -41635,7 +41667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Johns Hopkins Applied Physics Laboratory",
@@ -45907,7 +45939,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"370f3472121e7e71c7e09c9b37da3f9f0552f7ce32c042397b16631ba55d6eb5\"",
+    "etag": "\"5e0b52b13cf201dcb924e083f02d421ec06c753de01bbe41fda49b027b48fa99\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
