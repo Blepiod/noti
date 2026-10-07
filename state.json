@@ -227,6 +227,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Sigma Computing",
+        "key": "https://simplify.jobs/p/020d221e-9e1f-4ed0-9e98-add0f65d7c47",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -7491,7 +7507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -8099,7 +8115,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -9795,7 +9811,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -15139,7 +15155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -19523,7 +19539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -21891,7 +21907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -24227,7 +24243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gallup",
@@ -27667,7 +27683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tanium",
@@ -30883,7 +30899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -31727,6 +31743,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Sigma Computing",
+        "key": "https://simplify.jobs/p/b29f7462-630f-4a75-8dca-924bcd83bd11",
+        "location": "SF; NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Summer 2027",
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -35343,6 +35375,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Sigma Computing",
+        "key": "https://simplify.jobs/p/c63e2992-9d5c-413d-b83d-c3e7ac272cb1",
+        "location": "SF",
+        "restrictions": "Advanced degree required",
+        "role": "AI/ML PhD Intern 🎓",
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -40915,7 +40963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -41155,7 +41203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -42003,7 +42051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Signifyd",
@@ -44099,6 +44147,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Highmark Health",
+        "key": "https://simplify.jobs/p/f837be5e-a836-41f8-ae75-18dafffcf33a",
+        "location": "Pittsburgh, PA",
+        "restrictions": "",
+        "role": "Market Analytics Graduate Intern",
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -45555,7 +45619,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"a80db79817d897f445f848be27704fce28ab83ed69f498d6dd573dba4aa2d73b\"",
+    "etag": "\"b734a4cffdb33668fee727c9cfe272f66e9f9b84866dd6dc29a9007c9ffd2317\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
