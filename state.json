@@ -67,6 +67,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "key": "https://simplify.jobs/p/00a52ad4-067c-472b-a535-cacfc706483d",
+        "location": "Laurel, MD",
+        "restrictions": "",
+        "role": "Acoustic Algorithm Development Engineer Intern",
+        "url": "https://careers.jhuapl.edu/jobs/59784?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -45683,7 +45699,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"15621789dac44d0de17d119b557762bf72dd04d4cc08b02645696e15a27c179b\"",
+    "etag": "\"cb91c4fb0fefb09c40084b184f965261059e629a932f065f71671d42d6f1cb29\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
