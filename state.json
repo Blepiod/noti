@@ -33571,6 +33571,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Meta",
+        "key": "https://simplify.jobs/p/bb6a3336-da15-4b50-b989-9e84766d0e86",
+        "location": "Menlo Park, CA",
+        "restrictions": "",
+        "role": "Data Scientist Intern - Product Analytics",
+        "url": "https://www.metacareers.com/jobs/929757023499411"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -45667,7 +45683,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"33debc3cff9730afdf7d51cc6a9d70ead62b809cce0c64a9523cdca6e4a9af79\"",
+    "etag": "\"15621789dac44d0de17d119b557762bf72dd04d4cc08b02645696e15a27c179b\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
