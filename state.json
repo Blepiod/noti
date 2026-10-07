@@ -23731,6 +23731,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "19d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Roche",
+        "key": "https://simplify.jobs/p/854b0375-7239-4af1-824a-67ccffe9066a",
+        "location": "Welwyn Garden City, UK",
+        "restrictions": "",
+        "role": "Data Science Intern - Multiple Teams",
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -45731,7 +45747,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"2330d3476f1212293c748bb6ba7fff8c030d7355ecf4b058435896d762cef918\"",
+    "etag": "\"756f85108ab6c5b65fb2bccc5c8136b1c2cd3e5e3e47c82acb5dbda0156db2f8\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
