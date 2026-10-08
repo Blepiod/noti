@@ -34707,7 +34707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "BNY",
@@ -46835,7 +46835,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"882cab744c2bf56c176bdbebf7b0a6ddb72a5b438b1a8e8a84f8bb83454625fd\"",
+    "etag": "\"56824740f566342819e984c8c564ff3cf40091f440d0bb5083987f210dd36e65\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
