@@ -18595,6 +18595,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "DoorDash",
+        "key": "https://simplify.jobs/p/66fcf084-7f7c-43ed-8947-83179031963c",
+        "location": "SF; Sunnyvale, CA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -46819,7 +46835,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c615ab203ff30d8058157eb101ab992223ff5daff1fe67d53fa045c088a0c6d7\"",
+    "etag": "\"882cab744c2bf56c176bdbebf7b0a6ddb72a5b438b1a8e8a84f8bb83454625fd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
