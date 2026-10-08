@@ -16451,6 +16451,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "TikTok",
+        "key": "https://simplify.jobs/p/5b324f86-93db-4206-a6be-2406d36267e0",
+        "location": "San Jose, CA",
+        "restrictions": "",
+        "role": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+        "url": "https://lifeattiktok.com/search/7687630614472149301"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -22947,7 +22963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -27155,7 +27171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -28403,7 +28419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -45139,6 +45155,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Airbus",
+        "key": "https://simplify.jobs/p/f74f830d-dd2b-4c31-9afd-00673f6bf77f",
+        "location": "Portsmouth, UK",
+        "restrictions": "",
+        "role": "Radio Frequency Intern",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -45747,7 +45779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -46771,7 +46803,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"a3a6cec4f46d6eec504c9fba9ba222af3a4c8010803346b113b4ad4a52d7d036\"",
+    "etag": "\"3e55f3d064f6da0d52c64a9f09f2277cb203899b5e242aa12cee6943f1860261\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
