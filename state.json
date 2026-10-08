@@ -9987,7 +9987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "RTX",
@@ -30643,7 +30643,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Ernst & Young",
@@ -42595,7 +42595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Johns Hopkins Applied Physics Laboratory",
@@ -46915,7 +46915,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"ccb1a79ca89dd5c8c06fd0ec578345925cc1dbfab24c23bfc816bbe88fdd6463\"",
+    "etag": "\"5001a3648d835f3bfedc8923ad469c40ac92bcd7923bf06c621ac918d3808706\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
