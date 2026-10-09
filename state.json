@@ -9843,7 +9843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Edison International",
@@ -16339,7 +16339,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "RAVE Aerospace",
@@ -47555,7 +47555,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"38e42201ede447edba18f57f0151211766e801b97a68f93d1178dcdac27570de\"",
+    "etag": "\"c49dc43510e9a4ae8cc1fead92e59de5c6e8ef40b890f9b856134d2c80860b74\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
