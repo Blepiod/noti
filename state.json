@@ -6403,6 +6403,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Papa John's",
+        "key": "https://simplify.jobs/p/21f70fe2-fdef-49f7-a4f9-b5dd331e3acd",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Digital Development Intern",
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -25875,6 +25891,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Papa John's",
+        "key": "https://simplify.jobs/p/8b95518e-7880-4858-a78a-07273d000e53",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -26323,7 +26355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "RTX",
@@ -39267,6 +39299,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Johnson & Johnson",
+        "key": "https://simplify.jobs/p/d3a06147-0758-442a-a7b5-578fcc38219a",
+        "location": "Horsham, PA",
+        "restrictions": "",
+        "role": "Strategic Insight and Analytics Co-op",
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -43235,7 +43283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Johns Hopkins Applied Physics Laboratory",
@@ -47635,7 +47683,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b088e6b01010154ab2fdd1d4fc676fd25a146a8297da222634e6fbbb5de3b5b9\"",
+    "etag": "\"895e047b178285a5516cb1d3c22deb4c302ca78cd967dd6f49fb6291b90ec0a0\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
