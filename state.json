@@ -979,6 +979,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "2d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Macy's",
+        "key": "https://simplify.jobs/p/05912fa9-0a66-430e-9feb-f3411c4ef531",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Data Systems Intern - Multiple Teams",
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -16707,7 +16723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -16815,6 +16831,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "MUFG",
+        "key": "https://simplify.jobs/p/5bd53ccd-ca3e-4adf-9457-97e0631d6c1d",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Summer Analyst Programme: Global Markets Intern - Markets Engineering",
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -17635,6 +17667,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Mitsubishi UFG",
+        "key": "https://simplify.jobs/p/5ff57d13-4b0b-40cc-a775-131f961d14bc",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Summer Analyst Programme: Global Markets Intern - Markets Engineering",
+        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -17839,6 +17887,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "NVIDIA",
+        "key": "https://simplify.jobs/p/612b75fd-3a87-4038-8d14-df65b4ef144a",
+        "location": "Cambridge, UK",
+        "restrictions": "",
+        "role": "CPU Compiler Intern",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -23315,7 +23379,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -27555,7 +27619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -28803,7 +28867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -46451,7 +46515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -47491,7 +47555,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"f7d62d6e0e8b26f4c4711dedd3754f85410f13130c6f7ab0bda29a2b4f51a891\"",
+    "etag": "\"38e42201ede447edba18f57f0151211766e801b97a68f93d1178dcdac27570de\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
