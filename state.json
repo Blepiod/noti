@@ -11411,6 +11411,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Lendable",
+        "key": "https://simplify.jobs/p/3df195c1-6867-4343-8ce2-23a1549e0b09",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Credit Analyst Intern",
+        "url": "https://jobs.ashbyhq.com/lendable/a2214edc-39e3-4c70-8a09-875bb991062f/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -47555,7 +47571,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c49dc43510e9a4ae8cc1fead92e59de5c6e8ef40b890f9b856134d2c80860b74\"",
+    "etag": "\"fe3691f9610f2faaf5b3aed59b8c9c633711d8a583f11f1b9737a97356592881\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
