@@ -42707,7 +42707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -47683,7 +47683,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"895e047b178285a5516cb1d3c22deb4c302ca78cd967dd6f49fb6291b90ec0a0\"",
+    "etag": "\"84c5440edeef5c88fe3fe8e3a036ee4ffe488be088171029216092f59ba540bd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
