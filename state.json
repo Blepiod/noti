@@ -6163,7 +6163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "K2 Space",
@@ -11667,7 +11667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -18243,7 +18243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -29091,7 +29091,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -31011,7 +31011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -48307,7 +48307,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"5aff615b8e36cde72e15063e6c7a0495aaff64f3f70ad4986f24982d986d7e9d\"",
+    "etag": "\"34fd2a11a8125220b8aaa740592b0cdfaad42aa31f055ec561a9070658b8dd88\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
