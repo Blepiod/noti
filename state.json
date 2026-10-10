@@ -17443,6 +17443,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "23d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "AMD",
+        "key": "https://simplify.jobs/p/5ce335d6-a3e4-4dff-b52f-116bfd910e8f",
+        "location": "Markham, ON, Canada",
+        "restrictions": "",
+        "role": "Technical Marketing Performance Analysis Intern/Co-op",
+        "url": "https://careers.amd.com/jobs/91953?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "19d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -19235,7 +19251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "DoorDash",
@@ -48339,7 +48355,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c9933de6bde0b385e0fc09ba51440fd64c8d55a9794a3576355565408dc78dab\"",
+    "etag": "\"d5a7af9896e13a19ba7e900ea749cfdfaa70129a10b3c8b9208f91405d2cf3c9\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
