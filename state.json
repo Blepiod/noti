@@ -11347,6 +11347,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Workday",
+        "key": "https://simplify.jobs/p/3bcb752a-418d-4efe-88b2-389292a7eed0",
+        "location": "Pleasanton, CA",
+        "restrictions": "",
+        "role": "Product Manager Intern",
+        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -16979,7 +16995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -23731,7 +23747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -28067,7 +28083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -29315,7 +29331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -38803,6 +38819,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/ce67de6b-014f-45b0-8b18-54b623767679",
+        "location": "Melbourne, FL",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -40371,7 +40403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tyler Technologies",
@@ -47219,7 +47251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -48307,7 +48339,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c8312987f847c27c69ea7a98fea060eb4e18645b2384c30ca348f7e1e3859ef2\"",
+    "etag": "\"62e21e14093942ef41591647448e34bde28427834d65a3a366aae30d1780e8b6\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
