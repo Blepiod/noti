@@ -26915,6 +26915,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/8f6341ff-47e2-4a91-8d5d-fca1f79014c0",
+        "location": "Melbourne, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -31603,7 +31619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Zions Bank",
@@ -48355,7 +48371,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"02c07d50d7d2b3f6103b5bf0d26425c3ee9c8cf2fe2121d9173d70d8fbf3e0fd\"",
+    "etag": "\"f13eef390716f8448492d4c555936cc1aa821918d4177a004cc678b37725c2b4\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
