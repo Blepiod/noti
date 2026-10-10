@@ -323,7 +323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -3027,7 +3027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Scale AI",
@@ -7619,7 +7619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -16051,7 +16051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Dell Technologies",
@@ -30755,7 +30755,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -31107,7 +31107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Demco Products",
@@ -34579,7 +34579,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "SEP",
@@ -44675,7 +44675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gas South",
@@ -48355,7 +48355,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"1c64ab406535f3b7a11548e4d1aca190ca3c0d8610902f6cea4ad0dd9cd1df4d\"",
+    "etag": "\"02c07d50d7d2b3f6103b5bf0d26425c3ee9c8cf2fe2121d9173d70d8fbf3e0fd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
