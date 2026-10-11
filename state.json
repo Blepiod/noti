@@ -16995,7 +16995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -23763,7 +23763,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -28115,7 +28115,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -29363,7 +29363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -40451,7 +40451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tyler Technologies",
@@ -47299,7 +47299,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -48387,7 +48387,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"af78c3cf8c46ae93dffeb1b64759bd8a4b6025b7684adcabcc6ea4c2af97c622\"",
+    "etag": "\"5abf13a91e700c31ab9912377b8bd793bdec101b256ecdb34acfeb03a7eeeb73\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
