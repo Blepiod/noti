@@ -11683,7 +11683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -18275,7 +18275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -29155,7 +29155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -31075,7 +31075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -48435,7 +48435,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"8ff527bd43049d35a2b8df3dd84cce8a0b3a3bd7dd6a6d69427d294b011a5302\"",
+    "etag": "\"0046884d48ea5c42ab5e886dac1adbada05f6b3da18cdd01cef8f89c461538b3\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
