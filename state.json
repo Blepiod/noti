@@ -323,7 +323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -3027,7 +3027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Scale AI",
@@ -7619,7 +7619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -16083,7 +16083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Dell Technologies",
@@ -17487,6 +17487,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Parsons",
+        "key": "https://simplify.jobs/p/5ce92528-85a6-48e7-9cc5-4cd1222d3250",
+        "location": "Charlotte, NC; Centreville, VA",
+        "restrictions": "",
+        "role": "Engineering Internship/Co-op",
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34675,7 +34691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "SEP",
@@ -44851,7 +44867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gas South",
@@ -48531,7 +48547,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b25be6d5fa4ccdd3aaa28aa002805e37f6ea37135768dafd054ebcdf644e6dc9\"",
+    "etag": "\"d4c9aba0aa0f792d2f45905fcce8918304f12339974026181df28b81853152ef\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
