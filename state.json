@@ -4003,7 +4003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Klaviyo",
@@ -49491,7 +49491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"4769a745af6fa21a40cd69746607c82b961adedfcb1c9f0cab23aa705e7f3c98\"",
+    "etag": "\"bab6e74af9a1a920f78db479bd66655d1d835ecd1707a928579d41942917e674\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
