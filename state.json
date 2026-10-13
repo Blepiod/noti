@@ -17331,7 +17331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -24243,7 +24243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -28707,7 +28707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -29987,7 +29987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -38031,6 +38031,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Goodlord",
+        "key": "https://simplify.jobs/p/c5851f1f-3f5a-43ff-b66c-1176dd50e3d3",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Engineering Intern",
+        "url": "https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -48259,7 +48275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -49363,7 +49379,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"6f0cb39e669ec49c869024e23c487ba7031a790713977fb1842fca1e550f418c\"",
+    "etag": "\"db0a2bb544a9aa87d4dba16a7a14e2adadf63660f5ac094925c4c9f009a2f673\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
