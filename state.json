@@ -17747,7 +17747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Emerson Electric",
@@ -49491,7 +49491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"bab6e74af9a1a920f78db479bd66655d1d835ecd1707a928579d41942917e674\"",
+    "etag": "\"e61d289619e2ea84d4da13e2821ebd67804782bcba071fd34d81b8e017dd027b\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
