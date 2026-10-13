@@ -31587,6 +31587,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "American Family Insurance Group",
+        "key": "https://simplify.jobs/p/a5225dca-6c4a-48c9-880a-02b636fa5c57",
+        "location": "Madison, WI; Boston, MA",
+        "restrictions": "",
+        "role": "Front End Developer Intern - Digital Sales",
+        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -49395,7 +49411,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"7501e94f3561c665fe140bf668d3fa92902a194460fc9631a4aa2e9ab5720183\"",
+    "etag": "\"d9a78f5f53d4b51ba02c7f65d91725d72aac2ae4f2047792cce9776ec08d2971\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
