@@ -19635,7 +19635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "DoorDash",
@@ -22719,6 +22719,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Bedrock Robotics",
+        "key": "https://simplify.jobs/p/76b40102-6b34-41c3-bb59-e6a394efa19f",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Sensor Systems Engineer Intern",
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -49379,7 +49395,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"e809547d96e68b2f702107cb707e9d46da4730b7b4625539a06748081d0af311\"",
+    "etag": "\"a10924ca6746b558fdaa3f1e925d2bacb4d7a0ee9c63577adc86decb46d26b84\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
