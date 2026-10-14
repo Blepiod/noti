@@ -18883,7 +18883,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "NVIDIA",
@@ -50291,7 +50291,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"776a2be082a32fde2ee4bb5f1739224aaf21650e10f746bbb334c17d569c77ac\"",
+    "etag": "\"9aa1c506c4790a8fa092a91ba2efb2c4235f002ed7e9c23fa9382d26e448e81a\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
