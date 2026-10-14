@@ -19939,7 +19939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "DoorDash",
@@ -33651,6 +33651,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "BP",
+        "key": "https://simplify.jobs/p/ac5c0aa0-973b-4add-966c-686afeebbf87",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Summer Intern - Multiple Teams",
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -42710,6 +42726,22 @@
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
+        "company": "Blue Origin",
+        "key": "https://simplify.jobs/p/da26fe6e-792a-47e7-aeda-05389a823662",
+        "location": "Washington; LA; Denver, CO",
+        "restrictions": "Advanced degree required",
+        "role": "Avionics Software Intern 🎓",
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
         "company": "Oshkosh",
         "key": "https://simplify.jobs/p/da570ab1-d07e-40da-ae41-a8522c5a64a8",
         "location": "Greenville, WI; Oshkosh, WI",
@@ -50259,7 +50291,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"2ff21102f29db5987bbd6f1854807e2a03c27c5325005342052ea9d5fbb819f2\"",
+    "etag": "\"776a2be082a32fde2ee4bb5f1739224aaf21650e10f746bbb334c17d569c77ac\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
