@@ -38323,7 +38323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "National Life",
@@ -50483,7 +50483,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"39487df2302b46a78f119e91915e6e3a23c55b5ab301d646f153028a96eaf22b\"",
+    "etag": "\"f64941b8b52dce4a23a94e9f5fcc7ba60906492a7d29751d5f35941e79109967\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
