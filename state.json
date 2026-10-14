@@ -17603,7 +17603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -24675,7 +24675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -29203,7 +29203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -30483,7 +30483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -32879,6 +32879,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "15d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Electronic Arts",
+        "key": "https://simplify.jobs/p/a90773c4-8d1d-4ae9-bcd0-5deecca8ed27",
+        "location": "Orlando, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -49139,7 +49155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -50243,7 +50259,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b119cbf8702233cb3478120fe8dc5c6c83cfcaf2d4bfcf83c135d2f4ddcc21a7\"",
+    "etag": "\"9edfaaee50db3c4317cf2d029491bb5b15f90d962ddb78ce45a89f67bd35e8e6\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
