@@ -20707,6 +20707,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Aon",
+        "key": "https://simplify.jobs/p/6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
+        "location": "Leeds, UK; Epsom, UK; Birmingham, UK; Glasgow, UK; Farnborough, UK",
+        "restrictions": "",
+        "role": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
+        "url": "https://jobs.aon.com/jobs/108017?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -23231,6 +23247,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Ascension",
+        "key": "https://simplify.jobs/p/7787c1ea-7ca3-47f9-913d-8d035d331bd9",
+        "location": "St. Louis, MO",
+        "restrictions": "",
+        "role": "Integrated Participant Solutions Analytics Intern",
+        "url": "https://jobs.ascension.org/us/en/job/2026-465198"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -50211,7 +50243,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"cd761493c1759b531e49a55260eee454052859ab9f3a525e24399e9b8c81c8c8\"",
+    "etag": "\"b119cbf8702233cb3478120fe8dc5c6c83cfcaf2d4bfcf83c135d2f4ddcc21a7\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
