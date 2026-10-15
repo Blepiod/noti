@@ -275,7 +275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -8403,7 +8403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -12739,7 +12739,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "The Aerospace Corporation",
@@ -24563,7 +24563,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -25955,7 +25955,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -30724,6 +30724,22 @@
       "attempts": 0,
       "job": {
         "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Rockwell Automation",
+        "key": "https://simplify.jobs/p/9ba037f5-1b2b-4904-a711-458c06bb1fd3",
+        "location": "Chelmsford, MA",
+        "restrictions": "",
+        "role": "Electrical Engineer Co-op",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "RTX",
@@ -34643,7 +34659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -35603,7 +35619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -39683,7 +39699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -46211,7 +46227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -46499,7 +46515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -47427,7 +47443,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Signifyd",
@@ -51315,7 +51331,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"823a592da30b8bf04b8884ed4106cd78f41d5147e59e5c9b6e320eb03c97ec35\"",
+    "etag": "\"f669f03bb5ed8addefedc6145c6bf5c03e1e4b54d8c9c99ad57c7fb8eabe8c45\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
