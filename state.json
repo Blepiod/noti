@@ -15235,7 +15235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Pace",
@@ -18787,7 +18787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -32979,7 +32979,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -48195,7 +48195,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -51203,7 +51203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intuit",
@@ -51491,7 +51491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"008f073e9548ef60b467f78c2ec3d04b4479ac27133b52bcdc239257ca68bc57\"",
+    "etag": "\"b5c94d43954958c3ef0c6857d5c597f6af4159f62e42861c8567453586e74221\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
