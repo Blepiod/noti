@@ -12451,7 +12451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -19379,7 +19379,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -30899,7 +30899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -32915,7 +32915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -51139,6 +51139,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Tessera Labs",
+        "key": "https://simplify.jobs/p/ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
+        "location": "San Jose, CA; Remote in USA; NYC",
+        "restrictions": "",
+        "role": "Full Stack Software Engineer Intern - Full Stack",
+        "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -51331,7 +51347,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"5622e407f8be354fdba396f198fb2db29b025f2596d31b8e0b1eec473f2a1077\"",
+    "etag": "\"0562faac7bff37da9b87d5e925c76094eed3739c68cb5698e39895ce3bb41d08\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
