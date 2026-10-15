@@ -9619,6 +9619,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Microsoft",
+        "key": "https://simplify.jobs/p/2f809092-b7fc-460f-a4e3-0bb90bdac60b",
+        "location": "Redmond, WA; Mountain View, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Researcher Intern - Coreai 🎓",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -15892,6 +15908,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Brunswick",
+        "key": "https://simplify.jobs/p/5083f980-f378-47f2-9737-61eb9fbeeac0",
+        "location": "Oshkosh, WI",
+        "restrictions": "",
+        "role": "G3 Software Engineer Intern",
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "ByteDance",
@@ -17987,7 +18019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -18943,6 +18975,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "PA Consulting",
+        "key": "https://simplify.jobs/p/5f37b74e-06bb-431b-8260-1a7591e85f2c",
+        "location": "Melbourn, Royston, UK",
+        "restrictions": "",
+        "role": "Electronic Engineer Intern",
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155687129"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -25187,7 +25235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -29795,7 +29843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -31123,7 +31171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Antares Nuclear",
@@ -31919,6 +31967,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "PA Consulting",
+        "key": "https://simplify.jobs/p/a0a19e3f-13fd-418d-ac34-dabe9b73c200",
+        "location": "Melbourn, Royston, UK",
+        "restrictions": "",
+        "role": "Software and AI Systems Intern",
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155685700"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -39507,7 +39571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Goodlord",
@@ -50211,7 +50275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -51347,7 +51411,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"a5b495607b9b5b3bc8b12c21cbb80b33befdff13f180b3bde2001ee934a90fb3\"",
+    "etag": "\"30793e5042bc4abae014ca54aa37ef15e93d61cac29be8515b0714dea29eab86\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
