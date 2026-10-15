@@ -371,7 +371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -3251,7 +3251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Scale AI",
@@ -5987,6 +5987,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Autodesk",
+        "key": "https://simplify.jobs/p/1dba15c8-8b9b-480b-9237-6a5a7bf57e11",
+        "location": "Boston, MA; NYC",
+        "restrictions": "Advanced degree required",
+        "role": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments 🎓",
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -8163,7 +8179,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -11967,6 +11983,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Expedia Group",
+        "key": "https://simplify.jobs/p/3b537031-55e0-438c-9aee-888baa79d6cd",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Software Development Engineer Intern",
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -17075,7 +17107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Dell Technologies",
@@ -24431,6 +24463,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Expedia Group",
+        "key": "https://simplify.jobs/p/7b06c1c0-8cf5-43d9-bcb0-391457d8ffbb",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "Mobile Engineer Intern",
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -36739,7 +36787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "SEP",
@@ -48051,6 +48099,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Expedia Group",
+        "key": "https://simplify.jobs/p/ef5110ac-e253-4654-896d-f186344b7c1d",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "Applied Science Intern 🎓",
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -51427,7 +51491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"5f0dcd869ee131d562ea1e89cd495b2f50ffed3e070b62996a2fc5ab82d78489\"",
+    "etag": "\"dc1216ded8eadd9a6adb9c0c674d2f3afb32c693e690a05f0ccb3e889406e8e3\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
