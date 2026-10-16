@@ -50147,6 +50147,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "3d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "KLA",
+        "key": "https://simplify.jobs/p/f6398163-4e7d-4ddd-aaab-04adafd0ee67",
+        "location": "Ann Arbor, MI",
+        "restrictions": "",
+        "role": "Research Scientist Intern - Plasma Light Source Characterization",
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -52131,7 +52147,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"2546f6577eb73dfd2bbfe332219b9e66e96c2bb1575d2831817915feb32f684b\"",
+    "etag": "\"84632111bfd21488a6d3d222dff2e1390182dc7136fc372c2d1a34c566135b1e\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
