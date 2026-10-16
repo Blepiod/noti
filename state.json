@@ -275,7 +275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -8483,7 +8483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -24963,7 +24963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -26355,7 +26355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -35203,7 +35203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -36163,7 +36163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -40307,7 +40307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -40415,6 +40415,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "TikTok",
+        "key": "https://simplify.jobs/p/c6cf89af-fd3e-48e3-b886-b14efade21e6",
+        "location": "San Jose, CA",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Recommendation Performance Efficiency",
+        "url": "https://lifeattiktok.com/search/7673636206961641781"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -46915,7 +46931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -47203,7 +47219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -48147,7 +48163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Signifyd",
@@ -52115,7 +52131,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"7b4d4d3a7590510fbd3f14dc518a01125cca3dd74b41be9ea73f13107ef9cb5b\"",
+    "etag": "\"19527e05e2157d9bdb219d22cb01f52cc0f747132330405647dccbc218aad348\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
