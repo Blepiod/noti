@@ -371,7 +371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -2191,6 +2191,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Cummins",
+        "key": "https://simplify.jobs/p/0a8ec819-e5fa-47ae-abbe-075d7e73a845",
+        "location": "Darlington, UK",
+        "restrictions": "",
+        "role": "IT Systems Intern - Engine Plant IT Systems",
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -8275,7 +8291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -41972,6 +41988,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "InfiniteQuant",
+        "key": "https://simplify.jobs/p/cebe2404-0f14-43f7-a80e-93b201cd0441",
+        "location": "Dubai - United Arab Emirates; NYC",
+        "restrictions": "",
+        "role": "Quantitative Developer Intern",
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "StepStone Group",
@@ -48371,7 +48403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Gas South",
@@ -52275,7 +52307,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"8a989c9768d6b2cb998ca7e70b21e5a3a927a0cdf2d0694e9ce6a09a0866941d\"",
+    "etag": "\"e82db0990d5053676c298d2f3006924d11c55556586b8424aa7c87159ed67b3e\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
