@@ -371,7 +371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -2211,7 +2211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Cummins",
@@ -8371,7 +8371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -52883,7 +52883,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"1c6b9ef0ad5f05d6a6465674b3ef1a1b138ed23e46055f1114a138c58607fc5f\"",
+    "etag": "\"d04187e333ae4400abe99beeb660eda46ccaec47c2d1f5e095d0eb6532019427\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
