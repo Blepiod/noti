@@ -1331,7 +1331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -2451,7 +2451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Cummins",
@@ -3587,7 +3587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "EQT Corporation",
@@ -5939,7 +5939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Rothesay",
@@ -8419,6 +8419,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "PA Consulting",
+        "key": "https://simplify.jobs/p/24c85ed7-52f8-44b2-a102-4b74e70f24c9",
+        "location": "Bristol, UK",
+        "restrictions": "",
+        "role": "Industrial Placement Intern - Digital - Digital & Data",
+        "url": "https://jobs.smartrecruiters.com/PAConsulting/744000157427038"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -8851,7 +8867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Graphcore",
@@ -9455,6 +9471,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "RTX",
+        "key": "https://simplify.jobs/p/28e9b3bb-4e8d-47e3-b752-d6a0e06de51b",
+        "location": "McKinney, TX",
+        "restrictions": "",
+        "role": "Mission Analyst Intern",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mission-Analyst-Intern---Summer-2027--Onsite-_01883059"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -11487,6 +11519,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "4d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Adobe",
+        "key": "https://simplify.jobs/p/31ee782b-3421-455d-9cc1-e5c1fc84b692",
+        "location": "San Jose, CA",
+        "restrictions": "",
+        "role": "AI & Architecture Intern",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -16931,6 +16979,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Vertex Pharmaceuticals",
+        "key": "https://simplify.jobs/p/4c985bd1-88db-479c-bd83-8b2203fc8cb5",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "International Insights Summer Intern - Analytics and Commercial Operations",
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -17075,7 +17139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "WisdomTree",
@@ -18083,7 +18147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -22780,6 +22844,22 @@
         "restrictions": "",
         "role": "R&D Software Engineer Intern",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "GE Vernova",
+        "key": "https://simplify.jobs/p/649da7dc-7cfd-4077-a34e-20558b15bdfc",
+        "location": "Markham, ON, Canada",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1"
       },
       "next_attempt": 0.0,
       "sent": 1
@@ -28739,7 +28819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Parallel Wireless",
@@ -33379,6 +33459,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "MongoDB",
+        "key": "https://simplify.jobs/p/95437628-8de3-4f6f-ba65-44f3b0ed0be8",
+        "location": "Palo Alto, CA; Seattle, WA; SF; Austin, TX; NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -35139,7 +35235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "ZS",
@@ -35907,7 +36003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "DP World",
@@ -48819,6 +48915,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "GE Vernova",
+        "key": "https://simplify.jobs/p/d8b9f547-837d-4189-801a-d05610addf86",
+        "location": "Markham, ON, Canada",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2"
+      },
+      "next_attempt": 0.0,
+      "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -49567,6 +49679,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Citi",
+        "key": "https://simplify.jobs/p/dc4fde37-ff4b-4326-ad59-9a80cfc0019f",
+        "location": "Belfast, UK",
+        "restrictions": "",
+        "role": "Technology Placement Analyst Intern - Application Development",
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -52383,6 +52511,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Vertex Pharmaceuticals",
+        "key": "https://simplify.jobs/p/e837987f-35e6-4c8c-8573-8a11e41a7817",
+        "location": "London, UK",
+        "restrictions": "",
+        "role": "International Insights Summer Intern - Analytics and Commercial Operations",
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -56323,7 +56467,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -57971,7 +58115,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"f2f750452ebfaa1223c9c41b677ee90a49c220405c2429497cb13734ea0c7df5\"",
+    "etag": "\"30b1877a8c05fa531edccd54b850b6892a5a86b54a996af5d276b50d5af54e0f\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
