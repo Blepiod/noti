@@ -2515,7 +2515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Cummins",
@@ -3731,7 +3731,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Space Dynamics Laboratory",
@@ -9363,7 +9363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Zipline",
@@ -58755,7 +58755,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"b7307fe63bea19c496b1c63d1f3df6516024b4ee04109721356a8866ed060c3c\"",
+    "etag": "\"b45c15023c0875d4484ba6bbec08fd29ead7cdfc4b0de9bdc039ae8e2f70c6ed\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
