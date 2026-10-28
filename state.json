@@ -8947,7 +8947,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -9823,6 +9823,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Lowe's",
+        "key": "https://simplify.jobs/p/27bfd64f-188b-4555-b5cf-fc9525cf15c3",
+        "location": "Mooresville, NC",
+        "restrictions": "",
+        "role": "Store Operations Intern - Retail Facilities Support",
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Real-Estate---Undergrad-Internship---Summer-2027_JR-02650537"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -11603,7 +11619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Microsoft",
@@ -21699,6 +21715,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "VSP Vision",
+        "key": "https://simplify.jobs/p/5a6710d9-eb37-4044-b352-2b23303dd73c",
+        "location": "Remote in USA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -21843,7 +21875,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -22963,7 +22995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -24755,7 +24787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "DoorDash",
@@ -30339,7 +30371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -30547,7 +30579,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Parallel Wireless",
@@ -32623,6 +32655,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "HP IQ",
+        "key": "https://simplify.jobs/p/88e69973-8eee-44d0-91fe-a0c3dce55ece",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Product Design Engineering Intern",
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34915,7 +34963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "9d",
+        "age": "10d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Tesla",
@@ -35411,7 +35459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "The New York Times",
@@ -35587,7 +35635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Mindex",
@@ -36019,7 +36067,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Glencore",
@@ -37283,7 +37331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "ZS",
@@ -37731,7 +37779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "lowRISC CIC",
@@ -38083,7 +38131,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -50899,6 +50947,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "VSP Vision",
+        "key": "https://simplify.jobs/p/d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
+        "location": "Remote in USA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -51455,6 +51519,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Uline",
+        "key": "https://simplify.jobs/p/d7027afa-efad-4c6a-8b5a-853c11811670",
+        "location": "Pleasant Prairie, WI",
+        "restrictions": "",
+        "role": "International Operations Analyst Intern",
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -59715,7 +59795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -60099,7 +60179,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Varda Space",
@@ -61411,7 +61491,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"39be739addda4cd1b0bb7b529a6513c2013944cff9b3a7ec273c5ba22ed05caa\"",
+    "etag": "\"8fb20198f903b5cfc81ff3243b965d858a9d5f9c3fd17150bacb9bf10355bf58\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
