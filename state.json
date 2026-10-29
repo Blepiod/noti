@@ -2803,6 +2803,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Philips",
+        "key": "https://simplify.jobs/p/0ad97afd-e0ba-4720-ae97-7e1ad0f20d62",
+        "location": "Nashville, TN",
+        "restrictions": "",
+        "role": "AI & Analytics Analyst Intern",
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -7379,7 +7395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sherwin-Williams",
@@ -15267,7 +15283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -15283,7 +15299,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robert Bosch Venture Capital",
@@ -16979,7 +16995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -17731,7 +17747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Google",
@@ -20931,6 +20947,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Boston Scientific",
+        "key": "https://simplify.jobs/p/5617d404-c12b-458b-ab00-3c6cd2ec70e9",
+        "location": "Arden Hills, MN",
+        "restrictions": "",
+        "role": "AI Solutions Engineering Intern",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -23827,7 +23859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -33171,7 +33203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -33711,6 +33743,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Rendezvous Robotics",
+        "key": "https://simplify.jobs/p/8b4d0160-e50b-4b12-a510-29a4243ff741",
+        "location": "Golden, CO",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34495,6 +34543,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "HP Inc.",
+        "key": "https://simplify.jobs/p/8e8ee3a0-f39c-46f0-9c25-c1ffceafac8e",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -36099,7 +36163,7 @@
     {
       "attempts": 1,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Mohawk",
@@ -37523,7 +37587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -37619,7 +37683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AMCA",
@@ -39939,7 +40003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -40163,7 +40227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -41091,7 +41155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "23d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Atoms",
@@ -45683,7 +45747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Meta",
@@ -60947,6 +61011,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "HP Inc.",
+        "key": "https://simplify.jobs/p/f9ce3f9e-998b-4125-ae37-96cbe3936033",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Connectivity",
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -62243,7 +62323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tessera Labs",
@@ -62467,7 +62547,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"f724bed83a6bace8bb0cc4024200377dc53fef58a0ac1949cab3e054604ca8b6\"",
+    "etag": "\"14c8b9c036e0ce7598a3d5ba52be604f635ec6c576234f766c0169bf13e6f629\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
