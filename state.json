@@ -387,7 +387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -851,6 +851,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "29d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/03d37c7b-88d7-44dd-9ddb-f1fdf27a85f5",
+        "location": "United Kingdom",
+        "restrictions": "",
+        "role": "Electronics Engineering Intern",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989398101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -1295,6 +1311,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/054da912-83d7-407d-92b6-28e69322dbf6",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://ice.jibeapply.com/jobs/14077?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 1,
@@ -1919,6 +1951,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Publicis Groupe",
+        "key": "https://simplify.jobs/p/0706bb2f-8031-40cc-9e45-2952f9353f95",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172577?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -3411,7 +3459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -4079,6 +4127,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "14d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Systems Planning and Analysis",
+        "key": "https://simplify.jobs/p/1000756a-02f1-412a-94b0-5ebdad09465d",
+        "location": "Washington, DC",
+        "restrictions": "",
+        "role": "Data Engineering & Analytics Tools Intern",
+        "url": "https://spa.jibeapply.com/jobs/23634?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -5971,6 +6035,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/16eb930e-0ac5-48f4-b2e1-0092e4756c31",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Agentic AI Data Science Intern",
+        "url": "https://ice.jibeapply.com/jobs/14070?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -6099,7 +6179,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -7651,7 +7731,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sherwin-Williams",
@@ -7907,7 +7987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -8431,6 +8511,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "23d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Pretium",
+        "key": "https://simplify.jobs/p/211b91fc-4182-4722-a8a3-8a956e36e7fa",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Strategies Intern 🎓",
+        "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -9779,6 +9875,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "30d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Schneider Electric",
+        "key": "https://simplify.jobs/p/25ed3c5b-d2ed-41cc-abdf-279ea3f1546f",
+        "location": "Nashville, TN",
+        "restrictions": "",
+        "role": "Graduate Product Management Intern",
+        "url": "https://se.jibeapply.com/jobs/135310?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -11107,6 +11219,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "22d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/2af97ee6-2371-4003-ba3b-55f2fd5a6550",
+        "location": "United Kingdom",
+        "restrictions": "",
+        "role": "Software Engineering Intern - Healthcare",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -11379,7 +11507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -11487,6 +11615,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Java",
+        "url": "https://ice.jibeapply.com/jobs/14078?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -12707,7 +12851,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -15715,7 +15859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -16451,7 +16595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -17491,7 +17635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -17907,6 +18051,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "First Citizens BancShares",
+        "key": "https://simplify.jobs/p/47d45caa-b7cf-4f72-b59d-2b3c52395472",
+        "location": "Raleigh, NC",
+        "restrictions": "",
+        "role": "Summer Intern - AI Innovation",
+        "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -18243,7 +18403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Google",
@@ -18851,7 +19011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -21587,7 +21747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Boston Scientific",
@@ -22259,7 +22419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -23779,7 +23939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -24643,7 +24803,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -25987,7 +26147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -26223,6 +26383,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "30d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/681c6933-2937-47c4-9608-44e26bd1cb06",
+        "location": "San Diego, CA",
+        "restrictions": "",
+        "role": "Sustainability Engineer Co-op",
+        "url": "https://peraton.jibeapply.com/jobs/171537?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -26751,6 +26927,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/6a174ad0-4fd8-4f76-829f-53459f3b42f1",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Regulatory Products Intern",
+        "url": "https://ice.jibeapply.com/jobs/14101?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -27727,6 +27919,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "23d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Schneider Electric",
+        "key": "https://simplify.jobs/p/6dfc2aa4-779b-4d0a-b6b3-f59cbb1e7581",
+        "location": "Raleigh, NC; Cedar Rapids, IA",
+        "restrictions": "",
+        "role": "Electronics Hardware Engineer Co-op",
+        "url": "https://se.jibeapply.com/jobs/136319?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -28719,6 +28927,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/71b8953a-ea1d-4908-ae9c-af9ae857ee7b",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Data Analyst Intern",
+        "url": "https://ice.jibeapply.com/jobs/14089?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -30243,6 +30467,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/7815ee26-83c0-49c1-9736-e247a0fd427f",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Research Intern 🎓",
+        "url": "https://ice.jibeapply.com/jobs/14057?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -30707,7 +30947,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -31359,6 +31599,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/7d0c96ac-b326-411e-84bd-cc3908f4056e",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://ice.jibeapply.com/jobs/14065?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -32723,7 +32979,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "16d",
+        "age": "17d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -33700,6 +33956,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Publicis Groupe",
+        "key": "https://simplify.jobs/p/86741bed-09a2-4ca8-b7f9-be2c6f5019d1",
+        "location": "Irving, TX",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://publicisgroupe.jibeapply.com/jobs/173034?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Blackstone",
@@ -33775,6 +34047,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "29d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/86e4649a-609b-4d48-939b-f8c2b619aaa6",
+        "location": "United Kingdom",
+        "restrictions": "",
+        "role": "Cloud Software Engineer Intern",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34211,7 +34499,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -34223,6 +34511,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Publicis Groupe",
+        "key": "https://simplify.jobs/p/88eaf5f9-1259-44ff-ab84-75c4d2d6eb63",
+        "location": "Chicago, IL",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -37139,6 +37443,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/9511f77b-8a3f-49b1-b411-bee7198a96c1",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Trading System Development Intern",
+        "url": "https://ice.jibeapply.com/jobs/14102?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -37283,7 +37603,7 @@
     {
       "attempts": 1,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Mohawk",
@@ -38452,6 +38772,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Publicis Groupe",
+        "key": "https://simplify.jobs/p/9b9456d9-4ae4-40b5-b658-deb0296a8d68",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Product Manager Intern",
+        "url": "https://publicisgroupe.jibeapply.com/jobs/172574?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Optiver",
@@ -38707,7 +39043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -38819,7 +39155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "AMCA",
@@ -39843,6 +40179,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "22d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/a05453c1-7c53-46bb-881b-e40b0819352f",
+        "location": "Topeka, KS",
+        "restrictions": "",
+        "role": "Electrical Engineer Intern",
+        "url": "https://peraton.jibeapply.com/jobs/172055?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -40755,6 +41107,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "29d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/a383cf23-bfbc-40e0-b1b5-006e2219f0b3",
+        "location": "United Kingdom",
+        "restrictions": "",
+        "role": "Electronics Engineering Intern",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988779101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -41171,7 +41539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -41427,7 +41795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -42355,7 +42723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Atoms",
@@ -42883,6 +43251,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "22d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/abdd970b-9c82-4b36-8726-8b1974f2ab7e",
+        "location": "Topeka, KS",
+        "restrictions": "",
+        "role": "Software Developer Intern",
+        "url": "https://peraton.jibeapply.com/jobs/172061?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -42979,7 +43363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Stratolaunch",
@@ -44339,7 +44723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -44691,7 +45075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -45251,6 +45635,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/b4e0a3a3-103b-4d99-a55c-4456842414c8",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://ice.jibeapply.com/jobs/14105?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "5d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -45731,6 +46131,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/b65ac50b-2392-426a-b4d6-9ab44f279396",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Financial Engineering Intern 🎓",
+        "url": "https://ice.jibeapply.com/jobs/14059?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -46015,6 +46431,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "29d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/b77e4992-a36a-4053-a99d-7d1c3ecd2df8",
+        "location": "United Kingdom",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -47155,7 +47587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Meta",
@@ -47663,6 +48095,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/bd919433-9d4d-4aef-bea9-a8256a4c3704",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Engineer Intern 🎓",
+        "url": "https://ice.jibeapply.com/jobs/14053?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -49187,6 +49635,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/c36f55e4-dbea-400e-9a05-5483dc5c1b07",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Financial Analytics Intern 🎓",
+        "url": "https://ice.jibeapply.com/jobs/14055?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -49827,7 +50291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "24d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -49987,7 +50451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -51731,6 +52195,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "30d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/cde86f58-8020-4b23-a2f5-f3b3b886a06d",
+        "location": "San Diego, CA",
+        "restrictions": "",
+        "role": "Software Engineering Co-op",
+        "url": "https://peraton.jibeapply.com/jobs/171547?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -51955,7 +52435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -52015,6 +52495,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/cf2700e0-abee-490a-b004-5fba4e9f4867",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Audit Analytics Intern",
+        "url": "https://ice.jibeapply.com/jobs/14069?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -53199,6 +53695,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/d42fcbc7-e5de-4e30-bd8f-7a29b210a33e",
+        "location": "Blacksburg, VA; Herndon, VA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://peraton.jibeapply.com/jobs/169665?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -55283,6 +55795,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "3d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "First Citizens BancShares",
+        "key": "https://simplify.jobs/p/dc225990-b400-400e-a1e3-c5d7dadb10f2",
+        "location": "Raleigh, NC",
+        "restrictions": "",
+        "role": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+        "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -56035,6 +56563,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "24d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Pretium",
+        "key": "https://simplify.jobs/p/dff0eb47-2fa8-4636-9c21-34ff0fca9959",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "AI, Data & Innovation Intern",
+        "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -56063,6 +56607,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Andreessen Horowitz",
+        "key": "https://simplify.jobs/p/e00d51e8-391a-473d-a100-37fa803e306d",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Research Intern - Frontier",
+        "url": "https://a16z.com/about/jobs/?gh_jid=8046730003"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -56867,6 +57427,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "29d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Cambridge Consultants",
+        "key": "https://simplify.jobs/p/e3ae1f29-f23a-465d-a951-c9db5cf56cb2",
+        "location": "Cambridge, UK",
+        "restrictions": "Advanced degree required",
+        "role": "Electronics Systems Engineering Intern 🎓",
+        "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989420101"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -57199,6 +57775,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/e465c8aa-a8c9-4adc-b8ea-163ff4e05c3e",
+        "location": "Blacksburg, VA; Herndon, VA",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://peraton.jibeapply.com/jobs/170320?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -58351,6 +58943,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "First Citizens BancShares",
+        "key": "https://simplify.jobs/p/e7fe0540-3440-4b19-aae2-451f5e23bca8",
+        "location": "Raleigh, NC",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Modeling Intern 🎓",
+        "url": "https://firstcitizens.jibeapply.com/jobs/36317?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -59651,7 +60259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Signifyd",
@@ -59903,6 +60511,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/edd669e1-e493-4446-99d3-e8e668188696",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Integration Intern",
+        "url": "https://ice.jibeapply.com/jobs/14071?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -60799,6 +61423,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/f0f5bd69-8f2a-4aef-ba3a-87a576d04121",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://ice.jibeapply.com/jobs/14075?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -61747,7 +62387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -61855,6 +62495,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "2d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Systems Planning and Analysis",
+        "key": "https://simplify.jobs/p/f4f35bed-74e7-4e07-a1ef-07c8f4fbf615",
+        "location": "Alexandria, VA",
+        "restrictions": "",
+        "role": "Data Engineer Intern",
+        "url": "https://spa.jibeapply.com/jobs/23698?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -62047,6 +62703,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/f58cb7db-54c6-41d1-8762-0f0c2661bc7d",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://ice.jibeapply.com/jobs/14113?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -63171,6 +63843,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/faa08c14-59dc-4c59-8e3f-0120fe71c3b8",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Index Analyst Intern",
+        "url": "https://ice.jibeapply.com/jobs/14100?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -64211,7 +64899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -64339,7 +65027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tessera Labs",
@@ -64579,7 +65267,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"7866c46d2bcc243ad5ca7412130397849d7260c0b8a1aef62328b3a6fef71bfa\"",
+    "etag": "\"4f986b2fcafd749e29b42bf7474b7507951a9c9a642817c53f44144b825f2e11\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
