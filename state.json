@@ -35,7 +35,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Formlabs",
@@ -1331,7 +1331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -1603,7 +1603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Toyota Research Institute",
@@ -1651,7 +1651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -1843,7 +1843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Simbe Robotics",
@@ -2451,7 +2451,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -2995,7 +2995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "AltaLink",
@@ -3087,6 +3087,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Arrowstreet Capital",
+        "key": "https://simplify.jobs/p/0b64074c-ffc5-470d-99d6-59384260efd5",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -3347,7 +3363,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Panasonic Holdings",
@@ -3411,7 +3427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Hive Financial Systems",
@@ -3731,7 +3747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Amplify",
@@ -3907,7 +3923,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -3955,7 +3971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -4035,7 +4051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "ADT",
@@ -4195,7 +4211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Systems Planning and Analysis",
@@ -4403,7 +4419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Garda Capital Partners",
@@ -4547,7 +4563,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Boson Ai",
@@ -4851,7 +4867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amplify",
@@ -5011,7 +5027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -5283,7 +5299,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -5587,7 +5603,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "CommonAI C.I.C.",
@@ -6147,7 +6163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -6371,7 +6387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "ADT",
@@ -6579,7 +6595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Boston Consulting Group",
@@ -7523,7 +7539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -8851,7 +8867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -9059,7 +9075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -9267,7 +9283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "The Allen Institute for AI",
@@ -9699,7 +9715,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Nokia",
@@ -9971,7 +9987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Armadin",
@@ -10387,7 +10403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -10643,7 +10659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Schonfeld",
@@ -10819,7 +10835,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -10899,7 +10915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "V2X",
@@ -10947,7 +10963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -11011,7 +11027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ServiceNow",
@@ -11027,7 +11043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Roblox",
@@ -11139,7 +11155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Wellmark",
@@ -11763,7 +11779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Aflac",
@@ -11779,7 +11795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -11843,7 +11859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -11939,7 +11955,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Garmin",
@@ -12003,7 +12019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "KnowBe4",
@@ -12755,6 +12771,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "American Express",
+        "key": "https://simplify.jobs/p/305f85d5-4a7e-488b-849e-5804911af318",
+        "location": "Phoenix, AZ",
+        "restrictions": "",
+        "role": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -12799,6 +12831,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Commonwealth Fusion Systems",
+        "key": "https://simplify.jobs/p/3095dc51-647e-45c6-8c95-5791bcf93583",
+        "location": "Devens, MA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -13379,7 +13427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Koch Industries",
@@ -13539,6 +13587,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Highmark Health",
+        "key": "https://simplify.jobs/p/33365070-1b3c-4991-85fb-04e2cdc26de7",
+        "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+        "restrictions": "",
+        "role": "AI Services and Platforms Software Engineer Intern",
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -13603,7 +13667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Atoms",
@@ -13795,7 +13859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -13811,7 +13875,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Commonwealth Fusion Systems",
@@ -14131,7 +14195,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -14335,6 +14399,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "First Citizens BancShares",
+        "key": "https://simplify.jobs/p/3686f5c7-2317-4936-bc43-f0fa9697c64d",
+        "location": "Raleigh, NC",
+        "restrictions": "",
+        "role": "Applied AI Intern",
+        "url": "https://firstcitizens.jibeapply.com/jobs/36413?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -14755,7 +14835,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -14835,7 +14915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Pangram Labs",
@@ -14947,7 +15027,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Point72",
@@ -15107,7 +15187,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -15795,7 +15875,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Databricks",
@@ -15859,7 +15939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "DoorDash",
@@ -15987,7 +16067,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Astronics",
@@ -16355,7 +16435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "PDT Partners",
@@ -16851,7 +16931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "National Life",
@@ -16963,7 +17043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Loft Orbital",
@@ -17331,7 +17411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tria Federal",
@@ -17395,7 +17475,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Golden Analytics",
@@ -17475,7 +17555,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Parallel Systems",
@@ -18195,7 +18275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "FanDuel",
@@ -19075,7 +19155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Skydio",
@@ -19219,7 +19299,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Scout Clean Energy",
@@ -19347,7 +19427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Pure Storage",
@@ -19715,6 +19795,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Vizient",
+        "key": "https://simplify.jobs/p/4d500daf-f215-4098-89bd-65f0f3d60ffe",
+        "location": "Chicago, IL",
+        "restrictions": "",
+        "role": "Summer Intern - Digital Collaboration & Data Insights",
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -19795,7 +19891,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Coinbase",
@@ -19923,7 +20019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Lyft",
@@ -20595,7 +20691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -21283,7 +21379,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "LexisNexis Risk Solutions",
@@ -21395,7 +21491,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -21523,7 +21619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Wellmark",
@@ -21667,7 +21763,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Royal Bank of Canada",
@@ -21727,6 +21823,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Staples",
+        "key": "https://simplify.jobs/p/540147a8-5c6b-4f1d-8311-8fce3c94c9de",
+        "location": "Framingham, MA",
+        "restrictions": "",
+        "role": "Software Engineer Intern - SDS e-Commerce Team",
+        "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -22019,6 +22131,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Zebra Technologies",
+        "key": "https://simplify.jobs/p/555a6f45-0d0f-46e0-a4a3-d09256541f1c",
+        "location": "Holtsville, NY",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -22143,6 +22271,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "TikTok",
+        "key": "https://simplify.jobs/p/559f2104-6ca2-4331-8157-be28b1324602",
+        "location": "San Jose, CA",
+        "restrictions": "Advanced degree required",
+        "role": "Machine Learning Engineer Intern 🎓",
+        "url": "https://lifeattiktok.com/search/7703899923206867205"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -23043,7 +23187,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -23251,7 +23395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -24003,7 +24147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "The New York Times",
@@ -24419,7 +24563,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Divergent Technologies",
@@ -24611,7 +24755,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "LexisNexis Risk Solutions",
@@ -24963,7 +25107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -25267,7 +25411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -25507,7 +25651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "American Express",
@@ -25635,7 +25779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "ID.me",
@@ -25875,7 +26019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -26563,7 +26707,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Capstone Investment Advisors",
@@ -26803,7 +26947,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Westinghouse Electric Company",
@@ -27507,7 +27651,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -27555,7 +27699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -28771,7 +28915,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -29491,7 +29635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Resideo",
@@ -29603,7 +29747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -29651,7 +29795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Berkshire Hathaway Energy",
@@ -29939,7 +30083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -30099,7 +30243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Resideo",
@@ -30323,7 +30467,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Clean Harbors",
@@ -30835,7 +30979,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Riverlane",
@@ -31203,7 +31347,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -31427,7 +31571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Simbe Robotics",
@@ -31539,7 +31683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Resideo",
@@ -31555,7 +31699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -31939,7 +32083,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Staples",
@@ -32371,7 +32515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -32851,7 +32995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Meta",
@@ -33699,7 +33843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Panasonic Holdings",
@@ -33843,7 +33987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Vertiv",
@@ -34019,7 +34163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Amplify",
@@ -34031,6 +34175,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "HP Inc.",
+        "key": "https://simplify.jobs/p/8389b458-1a55-45d4-a63d-b9cfecb8824d",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Product & Developer Productivity",
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34367,6 +34527,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "CareSource",
+        "key": "https://simplify.jobs/p/85296cc2-e177-4e6b-a942-962f6643c9b5",
+        "location": "Remote in USA",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -34915,7 +35091,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -34947,7 +35123,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -35075,7 +35251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "LinkedIn",
@@ -36675,7 +36851,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Tyler Technologies",
@@ -36915,7 +37091,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Acadian Asset Management",
@@ -37523,7 +37699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -37875,7 +38051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -38339,7 +38515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -39235,7 +39411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -39331,7 +39507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -39603,7 +39779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "The Allen Institute for AI",
@@ -39619,7 +39795,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Anduril",
@@ -39971,7 +40147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -40643,7 +40819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Syngenta Group",
@@ -41027,7 +41203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Panasonic Holdings",
@@ -41395,7 +41571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -41439,6 +41615,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Highmark Health",
+        "key": "https://simplify.jobs/p/a1299f50-47e3-4269-9aba-1d8e8952b516",
+        "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+        "restrictions": "",
+        "role": "Healthcare Analytics Data Science Graduate Intern",
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -41555,7 +41747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Skydio",
@@ -42435,7 +42627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Burns Engineering",
@@ -42531,7 +42723,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -43123,7 +43315,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Skydio",
@@ -43219,7 +43411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Illinois Tool Works",
@@ -43683,7 +43875,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -44483,7 +44675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Pacific Northwest National Laboratory",
@@ -44627,7 +44819,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "19d",
+        "age": "20d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Macy's",
@@ -44675,7 +44867,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -45027,7 +45219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Medpace",
@@ -45299,7 +45491,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -45587,7 +45779,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Viget",
@@ -45859,7 +46051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Simbe Robotics",
@@ -46291,7 +46483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Corning",
@@ -46579,6 +46771,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Deutsche Bank",
+        "key": "https://simplify.jobs/p/b428b06b-dfce-4b4c-9b9a-32a8eb3d4fbb",
+        "location": "London, UK",
+        "restrictions": "Advanced degree required",
+        "role": "PhD Research Intern 🎓",
+        "url": "https://db.recsolu.com/external/requisitions/xWQKe37zpsstpmjqs1whHw"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -46755,7 +46963,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -47027,7 +47235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -47251,7 +47459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -47379,7 +47587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Figma",
@@ -47603,7 +47811,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Pacific Northwest National Laboratory",
@@ -48099,7 +48307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Resideo",
@@ -48271,6 +48479,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Jomboy Media",
+        "key": "https://simplify.jobs/p/b9c002ea-de62-45ca-a0e0-7210aff84508",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Business Intelligence Intern",
+        "url": "https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -48915,7 +49139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Javelin Global Commodities",
@@ -49267,7 +49491,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -49475,7 +49699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -49603,7 +49827,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Affirm",
@@ -49715,7 +49939,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -50355,7 +50579,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Tradeweb",
@@ -50371,7 +50595,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -50403,7 +50627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -50883,7 +51107,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -51251,7 +51475,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -51523,7 +51747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Scout Clean Energy",
@@ -51987,7 +52211,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -52115,7 +52339,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "IMC Trading",
@@ -52323,7 +52547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -52947,7 +53171,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Obsidian Entertainment",
@@ -53043,7 +53267,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "GM financial",
@@ -53187,7 +53411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -53491,7 +53715,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Veeam Software",
@@ -53763,7 +53987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -54051,7 +54275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Nokia",
@@ -54339,7 +54563,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Skydio",
@@ -55059,7 +55283,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -55347,7 +55571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "13d",
+        "age": "14d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Metamorphic",
@@ -55395,7 +55619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -55443,7 +55667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Amazon",
@@ -56323,7 +56547,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Amplify",
@@ -56435,7 +56659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -56531,7 +56755,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -56563,7 +56787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "State Affairs",
@@ -56979,6 +57203,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "HP Inc.",
+        "key": "https://simplify.jobs/p/db9560be-7703-4449-b71e-f01139b9b317",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Software Engineer Intern - AIML Platform - HP IQ",
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -57267,7 +57507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "RTX",
@@ -57379,7 +57619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "GCM Grosvenor",
@@ -57443,7 +57683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Cirrus Logic",
@@ -57459,7 +57699,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -58195,7 +58435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -59603,7 +59843,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Pattern",
@@ -59779,7 +60019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -60035,7 +60275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "ServiceNow",
@@ -60083,7 +60323,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Aon",
@@ -60387,7 +60627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "3d",
+        "age": "4d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "First Citizens BancShares",
@@ -60435,7 +60675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -60739,7 +60979,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TRC Companies",
@@ -60755,7 +60995,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "25d",
+        "age": "26d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Robert Bosch Venture Capital",
@@ -60803,7 +61043,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sherwin-Williams",
@@ -61507,7 +61747,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Electronic Arts",
@@ -61987,7 +62227,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -62707,6 +62947,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Vatic Investments",
+        "key": "https://simplify.jobs/p/f026f7ec-de3d-49c1-abe2-823d98909827",
+        "location": "NYC",
+        "restrictions": "Advanced degree required",
+        "role": "AI Research Intern 🎓",
+        "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -62899,7 +63155,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Resideo",
@@ -62963,7 +63219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -63235,7 +63491,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -63747,7 +64003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Schonfeld",
@@ -63763,7 +64019,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Muon Space",
@@ -64051,7 +64307,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Systems Planning and Analysis",
@@ -64079,6 +64335,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Arch Capital Group",
+        "key": "https://simplify.jobs/p/f5113035-5f0f-4f0c-970b-772d643acbf6",
+        "location": "Greensboro, NC",
+        "restrictions": "",
+        "role": "Originations Portal IT Intern",
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -64163,7 +64435,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -64259,7 +64531,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -65139,7 +65411,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Verisk",
@@ -65363,7 +65635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Netflix",
@@ -65443,7 +65715,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Intercontinental Exchange",
@@ -65587,7 +65859,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "10d",
+        "age": "11d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Upscale AI",
@@ -65619,7 +65891,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Qualcomm",
@@ -66739,7 +67011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "25d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -66883,7 +67155,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"3e75b6246aba122e4de5b974e134f9970163a5032cea0a5bcefc2c617ba4ada1\"",
+    "etag": "\"349207256ddccc71f652bc40ff49f640556b6ff42d4894c874561f639b5742bd\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
