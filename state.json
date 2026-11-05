@@ -212,6 +212,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "East Penn Manufacturing",
+        "key": "https://simplify.jobs/p/0155c8dd-b6a4-434e-92db-21345d539bb8",
+        "location": "Kutztown, PA",
+        "restrictions": "",
+        "role": "Research & Development Intern",
+        "url": "https://careerseast-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Jain Global",
@@ -335,6 +351,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/01be8251-5ef7-4de0-b922-531b89fe891d",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Regulatory Products Intern",
+        "url": "https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -1007,6 +1039,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "General Dynamics Mission Systems",
+        "key": "https://simplify.jobs/p/044ee2f0-a8b5-474b-9c1d-bbb5611214d7",
+        "location": "Manassas, VA",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -3491,6 +3539,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "8d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "ViaSat",
+        "key": "https://simplify.jobs/p/0d220c65-d483-4ced-b1bf-02c913e9a686",
+        "location": "Duluth, GA",
+        "restrictions": "",
+        "role": "Pointing and Tracking Engineer Intern",
+        "url": "https://careers.viasat.com/jobs/6752?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "3d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -5396,6 +5460,22 @@
       "attempts": 0,
       "job": {
         "age": "1mo",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "SimVentions",
+        "key": "https://simplify.jobs/p/14c97baf-adf1-48d0-9433-db5048717b7e",
+        "location": "Fredericksburg, VA",
+        "restrictions": "",
+        "role": "Software Development Intern",
+        "url": "https://careers-simventions.icims.com/jobs/1631/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Xcel Energy",
@@ -6143,6 +6223,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/16bd2193-13cc-492b-89ac-4a90a8ef0385",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Data Science Intern",
+        "url": "https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -7235,6 +7331,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/1b77fb8f-002c-4ce6-90c6-27cf0111a0e6",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Integration Intern",
+        "url": "https://careers-ice.icims.com/jobs/14071/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -7635,6 +7747,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "2d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "ViaSat",
+        "key": "https://simplify.jobs/p/1ccd517f-4453-4126-acbc-67c060c7b92e",
+        "location": "Tempe, AZ",
+        "restrictions": "",
+        "role": "Digital and Programmable Logic Engineer Intern",
+        "url": "https://careers.viasat.com/jobs/7088?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -7923,7 +8051,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sherwin-Williams",
@@ -9843,7 +9971,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -9935,6 +10063,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/250d23ea-4c82-413f-bedb-7f82372f758d",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Financial Engineering Intern 🎓",
+        "url": "https://careers-ice.icims.com/jobs/14059/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -12099,7 +12243,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "30d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Atlassian",
@@ -12383,6 +12527,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "3d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Alaska Air Group",
+        "key": "https://simplify.jobs/p/2e1a5e1d-e688-49b9-9369-a2f5deb491a6",
+        "location": "Renton, WA",
+        "restrictions": "",
+        "role": "VR Development Intern",
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -12771,7 +12931,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Microsoft",
@@ -14883,6 +15043,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/379d14c1-45c0-457b-8346-c24ef16b6d2e",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -16179,7 +16355,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -16563,7 +16739,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -17443,7 +17619,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "ITT",
@@ -17923,6 +18099,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "20d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Garmin",
+        "key": "https://simplify.jobs/p/43a55f5c-b38e-4c74-a8e9-0aa4b95370c7",
+        "location": "Brea, CA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://careers.garmin.com/jobs/20129?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -18387,6 +18579,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/45a33390-e3d3-4475-8ae9-1e37c162103a",
+        "location": "San Diego, CA",
+        "restrictions": "",
+        "role": "Structuring & Portfolio Management Intern",
+        "url": "https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -18403,7 +18611,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -18803,6 +19011,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "10d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Atlassian",
+        "key": "https://simplify.jobs/p/47844ec4-47df-4eab-b49c-c2dabea703ec",
+        "location": "SF",
+        "restrictions": "",
+        "role": "AI Research Intern",
+        "url": "https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "4d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -19155,6 +19379,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/4958148e-909c-4e2b-9e80-a4f5a799a208",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Research Intern 🎓",
+        "url": "https://careers-ice.icims.com/jobs/14057/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -19347,7 +19587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Nutanix",
@@ -19791,6 +20031,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/4be035be-0e48-4fcf-971e-5f3dbb1d1b7b",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Engineer Intern 🎓",
+        "url": "https://careers-ice.icims.com/jobs/14053/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -23123,6 +23379,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "📈 Quantitative Finance Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/57411c6d-683d-498a-86e2-f883230ad800",
+        "location": "Atlanta, GA",
+        "restrictions": "Advanced degree required",
+        "role": "Quantitative Financial Analytics Intern 🎓",
+        "url": "https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -23187,7 +23459,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Enterprise Holdings",
@@ -23843,6 +24115,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Blackhawk Network Holdings",
+        "key": "https://simplify.jobs/p/59cb6225-cdeb-44d2-b3c6-fa1ee98e4a67",
+        "location": "Coppell, TX",
+        "restrictions": "",
+        "role": "Technology Intern",
+        "url": "https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -23887,6 +24175,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "General Dynamics Mission Systems",
+        "key": "https://simplify.jobs/p/59e8bcfa-d272-4908-b44c-ffb7fa90719a",
+        "location": "Lakewood, OH",
+        "restrictions": "",
+        "role": "Software Engineering Intern",
+        "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -24179,7 +24483,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "27d",
+        "age": "28d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "TikTok",
@@ -24579,7 +24883,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "27d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -25379,7 +25683,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -25683,7 +25987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "IDEMIA",
@@ -25971,7 +26275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sigma Computing",
@@ -26159,6 +26463,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "East Penn Manufacturing",
+        "key": "https://simplify.jobs/p/620db921-a48d-4d17-a568-e83e604c7290",
+        "location": "Kutztown, PA",
+        "restrictions": "",
+        "role": "Research & Development Intern",
+        "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -27123,7 +27443,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "2d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -28659,6 +28979,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Novelis",
+        "key": "https://simplify.jobs/p/6bc5b653-b20f-4693-af73-032c636a4618",
+        "location": "Kennesaw, GA",
+        "restrictions": "",
+        "role": "Automotive Engineering Co-op",
+        "url": "https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -28879,6 +29215,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "NVIDIA",
+        "key": "https://simplify.jobs/p/6c1ee26b-247c-49d8-b539-c99c9800e8fa",
+        "location": "Santa Clara, CA; United States",
+        "restrictions": "Advanced degree required",
+        "role": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI 🎓",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -30543,6 +30895,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "2d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Noblis",
+        "key": "https://simplify.jobs/p/7274511d-039e-4c72-8752-a5ed8b0d3a57",
+        "location": "Springfield, VA; Reston, VA",
+        "restrictions": "",
+        "role": "Data Science and Innovation Intern",
+        "url": "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -32307,7 +32675,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Atlassian",
@@ -33539,7 +33907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "24d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Iridium Communications",
@@ -33711,6 +34079,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "1d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Philips",
+        "key": "https://simplify.jobs/p/7f96824a-2cd9-460b-86fc-78b38bcb9dd8",
+        "location": "New Kensington, PA",
+        "restrictions": "",
+        "role": "Product Investigations Lab Intern",
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -33891,7 +34275,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Parallel Wireless",
@@ -34035,7 +34419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "West Bend Insurance",
@@ -36195,7 +36579,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -37363,6 +37747,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "14d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/8d5a68f3-3c90-4a0f-9579-ef3d5483e360",
+        "location": "San Diego, CA",
+        "restrictions": "",
+        "role": "IT Development Intern",
+        "url": "https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
@@ -38355,6 +38755,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/9170094b-9365-47d8-a674-dc264f4596a7",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Trading System Development Intern",
+        "url": "https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -38483,7 +38899,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Tesla",
@@ -38723,7 +39139,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "18d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Tesla",
@@ -39299,7 +39715,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "The New York Times",
@@ -39411,7 +39827,7 @@
     {
       "attempts": 1,
       "job": {
-        "age": "30d",
+        "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "Mohawk",
@@ -39955,7 +40371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "12d",
+        "age": "13d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Glencore",
@@ -40271,6 +40687,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/99ee1564-3bd3-429b-9d3f-403dfd4adebd",
+        "location": "Topeka, KS",
+        "restrictions": "",
+        "role": "Electrical Engineer Intern",
+        "url": "https://careers-peraton.icims.com/jobs/172055/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -40883,6 +41315,38 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/9c388406-be93-48e8-b285-806496588877",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://careers-ice.icims.com/jobs/14065/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "22d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Wolf & Company",
+        "key": "https://simplify.jobs/p/9c51dc6c-562b-465a-86eb-936000535f57",
+        "location": "Boston, MA",
+        "restrictions": "",
+        "role": "AI & Automation Intern",
+        "url": "https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -40931,7 +41395,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cadence Solutions",
@@ -41827,7 +42291,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "lowRISC CIC",
@@ -42195,7 +42659,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "20d",
+        "age": "21d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "PA Consulting",
@@ -42431,6 +42895,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "7d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/a13ec5a5-3635-45bd-83ca-08be107e7ef1",
+        "location": "Middletown, CA",
+        "restrictions": "",
+        "role": "Geothermal Production Analytics Engineer Intern",
+        "url": "https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -43523,7 +44003,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Cloudflare",
@@ -43779,7 +44259,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Waymo",
@@ -44755,7 +45235,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "29d",
+        "age": "30d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Atoms",
@@ -44851,7 +45331,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "30d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "General Dynamics Mission Systems",
@@ -45411,7 +45891,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Stratolaunch",
@@ -46015,6 +46495,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/ae0632e6-2003-4b35-bb2f-b2a244e39835",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern - Java",
+        "url": "https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -46815,6 +47311,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/b1426836-12a4-4ad5-8a7f-bea74b0446eb",
+        "location": "Houston, TX",
+        "restrictions": "",
+        "role": "Renewable Energy Intern",
+        "url": "https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -48387,6 +48899,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "State Farm",
+        "key": "https://simplify.jobs/p/b6c102ff-263e-4702-96a9-65f26a42bb79",
+        "location": "Tempe, AZ",
+        "restrictions": "",
+        "role": "Magnet Program Intern",
+        "url": "https://jobs.statefarm.com/jobs/46301?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
@@ -49379,7 +49907,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "22d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Corgan",
@@ -49843,7 +50371,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "28d",
+        "age": "29d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Meta",
@@ -50927,6 +51455,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/bf8068f6-2266-41e3-a2e7-a16e3f7bc6dc",
+        "location": "NYC",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -53027,6 +53571,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/c7c02b39-6c32-469d-892e-e21288988cce",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Developer Intern",
+        "url": "https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -53279,6 +53839,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/c83bdc1d-5eb0-41f6-a236-0a2822d82b7b",
+        "location": "West Lafayette, IN; Basking Ridge, Bernards, NJ; Silver Spring, MD; Bedford, NH",
+        "restrictions": "",
+        "role": "Cyber Research Intern",
+        "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -53939,7 +54515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "29d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "IDEMIA",
@@ -54259,6 +54835,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/cc498de5-5a4f-4bc7-9742-a133afaa8570",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Agentic AI Data Science Intern",
+        "url": "https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "2d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -54387,7 +54979,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -54559,6 +55151,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "3d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Alaska Air Group",
+        "key": "https://simplify.jobs/p/cdb6fb97-891a-42fe-8c20-fc82c2234b21",
+        "location": "SeaTac, WA",
+        "restrictions": "",
+        "role": "Guest Products Analyst Intern",
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -58019,6 +58627,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "3d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Alaska Air Group",
+        "key": "https://simplify.jobs/p/dac9ed6b-56bc-46cd-9df0-a15db5581717",
+        "location": "SeaTac, WA",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -59359,6 +59983,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Peraton",
+        "key": "https://simplify.jobs/p/e02b0a85-0fde-4075-baba-1e4e48f6f949",
+        "location": "San Diego, CA",
+        "restrictions": "",
+        "role": "Social Media & Marketing Analyst Intern",
+        "url": "https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -62595,6 +63235,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "3d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Alaska Air Group",
+        "key": "https://simplify.jobs/p/eb8a2e35-b9c4-4e33-89cf-b145e732f581",
+        "location": "Renton, WA",
+        "restrictions": "",
+        "role": "BI Analyst Intern",
+        "url": "https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "16d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -63507,7 +64163,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "0d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Barrios",
@@ -63539,7 +64195,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "2d",
+        "age": "3d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -64675,6 +65331,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Liberty Mutual",
+        "key": "https://simplify.jobs/p/f27d4db4-22be-4779-8dba-e9009de6ab08",
+        "location": "Boston, MA; Seattle, WA; Plano, TX",
+        "restrictions": "",
+        "role": "Analyst Development Intern",
+        "url": "https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "10d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -64867,7 +65539,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "23d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -65219,7 +65891,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "17d",
+        "age": "29d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Alliance Laundry Systems",
@@ -65583,6 +66255,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "12d",
+        "category": "📱 Product Management Internship Roles",
+        "closed": false,
+        "company": "Panasonic Holdings",
+        "key": "https://simplify.jobs/p/f54da270-c7d3-4022-b704-06c0f12cbb2a",
+        "location": "Bridgeton, MO",
+        "restrictions": "",
+        "role": "Product Management Intern",
+        "url": "https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -66243,6 +66931,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "13d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/f82baa51-3e9d-4777-93c6-10285c9861a7",
+        "location": "Atlanta, GA",
+        "restrictions": "",
+        "role": "Audit Analytics Intern",
+        "url": "https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "18d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
@@ -66419,7 +67123,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "15d",
+        "age": "16d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -66643,6 +67347,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "1d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/f9d3638e-909b-4e1a-aac8-bf96a6846a05",
+        "location": "Baltimore, MD",
+        "restrictions": "",
+        "role": "Load Forecasting & Analytics Intern",
+        "url": "https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "1mo",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
@@ -66735,6 +67455,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "2d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "ViaSat",
+        "key": "https://simplify.jobs/p/fa5194c0-3966-4580-a96a-7ce946e87342",
+        "location": "Germantown, MD",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://careers.viasat.com/jobs/7757?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -66863,6 +67599,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "💻 Software Engineering Internship Roles",
+        "closed": false,
+        "company": "Intercontinental Exchange",
+        "key": "https://simplify.jobs/p/fac0f6c9-5ff0-4f66-970e-0ea57dcbdaac",
+        "location": "Jacksonville, FL",
+        "restrictions": "",
+        "role": "Software Engineer Intern",
+        "url": "https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -67135,6 +67887,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "13d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Constellation Energy",
+        "key": "https://simplify.jobs/p/fb7c3da2-a194-48d2-ac39-bdfc88cad4d0",
+        "location": "Middletown, CA",
+        "restrictions": "",
+        "role": "Data & Digital Transformation Intern - Geysers",
+        "url": "https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -67827,6 +68595,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "State Farm",
+        "key": "https://simplify.jobs/p/fe8d2783-4265-46f3-bf32-0172e2ddfe65",
+        "location": "Champaign, IL",
+        "restrictions": "",
+        "role": "Magnet Program @ University of Illinois Urbana-Champaign Intern",
+        "url": "https://jobs.statefarm.com/jobs/46049?icims=1"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "13d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -68291,7 +69075,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"6d07681d249e398f01617b963a2f1a69af6da99ffe05725cf204bfb9912926f5\"",
+    "etag": "\"5883728b147d150ebdf43a0fe8ace99c05a99b72cf413a2d5c4aa67d2a871b77\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
