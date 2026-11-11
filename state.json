@@ -1075,7 +1075,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "General Dynamics Mission Systems",
@@ -2739,7 +2739,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "4d",
+        "age": "5d",
         "category": "📱 Product Management Internship Roles",
         "closed": false,
         "company": "DwyerOmega",
@@ -8515,7 +8515,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Sherwin-Williams",
@@ -13587,7 +13587,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "26d",
+        "age": "27d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Microsoft",
@@ -16419,7 +16419,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "1d",
+        "age": "8d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Paccar",
@@ -17203,7 +17203,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -19635,7 +19635,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -19919,6 +19919,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🔧 Hardware Engineering Internship Roles",
+        "closed": false,
+        "company": "Astranis",
+        "key": "https://simplify.jobs/p/46b48762-e76f-4598-8440-e22bebf7a645",
+        "location": "SF",
+        "restrictions": "",
+        "role": "Embedded Software Developer – Network/Payload Intern",
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -24771,7 +24787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "1mo",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Elire",
@@ -25491,7 +25507,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Blackhawk Network Holdings",
@@ -25555,7 +25571,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "General Dynamics Mission Systems",
@@ -27971,7 +27987,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "East Penn Manufacturing",
@@ -28995,7 +29011,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "7d",
+        "age": "8d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "onsemi",
@@ -30675,7 +30691,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Novelis",
@@ -30959,6 +30975,22 @@
       },
       "next_attempt": 0.0,
       "sent": 1
+    },
+    {
+      "attempts": 0,
+      "job": {
+        "age": "0d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Riot Games",
+        "key": "https://simplify.jobs/p/6c623df8-7d81-4f90-be6f-b3fdde876280",
+        "location": "Remote in USA",
+        "restrictions": "",
+        "role": "Data Engineer Intern",
+        "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
     },
     {
       "attempts": 0,
@@ -33827,6 +33859,22 @@
     {
       "attempts": 0,
       "job": {
+        "age": "8d",
+        "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
+        "closed": false,
+        "company": "Trilogy Health Services",
+        "key": "https://simplify.jobs/p/76a595e0-ce67-4310-b97a-58c8e96f4b04",
+        "location": "Louisville, KY",
+        "restrictions": "",
+        "role": "Value Based Care Finance Intern",
+        "url": "https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us"
+      },
+      "next_attempt": 0.0,
+      "sent": 0
+    },
+    {
+      "attempts": 0,
+      "job": {
         "age": "25d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
@@ -36291,7 +36339,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Parallel Wireless",
@@ -38739,7 +38787,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "14d",
+        "age": "15d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "HP IQ",
@@ -42835,7 +42883,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "18d",
+        "age": "19d",
         "category": "📈 Quantitative Finance Internship Roles",
         "closed": false,
         "company": "Glencore",
@@ -43171,7 +43219,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🔧 Hardware Engineering Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -48579,7 +48627,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Stratolaunch",
@@ -50339,7 +50387,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "11d",
+        "age": "12d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Newmont",
@@ -58355,7 +58403,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "6d",
+        "age": "7d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -63619,7 +63667,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Peraton",
@@ -65379,7 +65427,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Selective Insurance",
@@ -68099,7 +68147,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "8d",
+        "age": "9d",
         "category": "💻 Software Engineering Internship Roles",
         "closed": false,
         "company": "Roku",
@@ -69299,7 +69347,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "5d",
+        "age": "6d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "Liberty Mutual",
@@ -71203,7 +71251,7 @@
     {
       "attempts": 0,
       "job": {
-        "age": "21d",
+        "age": "22d",
         "category": "🤖 Data Science, AI & Machine Learning Internship Roles",
         "closed": false,
         "company": "JP Morgan Chase",
@@ -73235,7 +73283,7 @@
   ],
   "meta": {
     "delivery_resume": "0",
-    "etag": "\"c2d72d06e94e244ed137726f688518d40fc6da7a02ec0cc139dc03389cbe051b\"",
+    "etag": "\"a7159d56c1d07bd8492e64ddc70cd212a5e702c29fa9e874ad42553327a81311\"",
     "fetch_attempts": "0",
     "fetch_resume": "0",
     "initialized": "1",
